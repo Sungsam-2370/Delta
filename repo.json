@@ -55,6 +55,24 @@
       "screens": 5
     },
     {
+      "name": "FOX",
+      "title": "Star Fox",
+      "author": "Angel - Rene - Luis",
+      "version": "1.0.0",
+      "description": "Juego nativo de N64 en Español",
+      "details": "Star Fox 64 es una obra maestra atemporal de los disparos sobre rieles (rail shooter)\n\nDestaca por su jugabilidad precisa, rutas ramificadas con múltiples destinos y un diseño de niveles impecable\n\nEl juego pone al jugador al mando del Arwing de Fox McCloud. El objetivo es cruzar el Sistema Lylat para derrotar al malvado Andross\n\nLas mecánicas de disparo sobre rieles exigen precisión. Se deben realizar maniobras como el famoso barrel roll para esquivar ataques\n\nLa narrativa fluye en tiempo real gracias a los mensajes de radio de Falco, Peppy y Slippy. Sus constantes llamadas de auxilio impactan directamente el desarrollo de la misión\n\nJugabilidad y Mecánicas\n\nControl directo: Combina el movimiento y la mira en el mismo mando analógico, obligando al jugador a arriesgarse para acertar.\n\nVehículos variados: Ofrece fases en el Arwing, el tanque Landmaster y el submarino Blue Marine.\n\nRutas alternas: Cumplir objetivos específicos en cada nivel permite desbloquear caminos secretos y cambiar el destino final de la galaxia\n\nPresentación y Sonido\n\nVoces digitalizadas: Las charlas y reacciones del escuadrón (Falco, Peppy y Slippy) hacen que el mundo se sienta vivo.\n\nInmersión física: Fue pionero en popularizar el accesorio de vibración Rumble Pak en la consola original.\n\nHistoria entrañable: Una sencilla pero emotiva trama de venganza y legado familiar contra el malvado Andross\n\nCampaña corta: Cada ruta se completa en un par de horas.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nLa descarga incluye un NSP que se guardará en la carpeta Descargas en la raíz de tu sd, después de descargar, instala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta descargas en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo\n\n(Después de la instalación y que el juego funcione puedes recuperar espacio usando la opcion borrar desde este programa, o puedes borrar manualmente el nsp que esta en la carpeta descargas)\n\nNOTA:\nEste juego no es compatible con el parche de 40mb extras, si lo tienes activado, desactivalo para poder usarlo y si lo requieres, después puedes volver activar el parche de memoria",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Delta/releases/download/Delta/FOX.zip",
+      "instalacion": "Descargas/N64_Nativos/Star_Fox/NSP/Star_Fox_Esp.nsp",
+      "license": "Español",
+      "category": "N64_Nativos",
+      "binary": "none",
+      "filesize": 71376,
+      "extracted": 71367,
+      "updated": "17/06/2026",
+      "screens": 5
+    },
+    {
       "name": "FAITH",
       "title": "Faith",
       "author": "Luigi - Pab10Suarez",
