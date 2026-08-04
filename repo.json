@@ -1181,7 +1181,7 @@
       "name": "BAD",
       "title": "Bad Piggies",
       "author": "ChanseyIsTheBest",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "description": "Port Android",
       "details": "Bad Piggies es uno de los mejores y más ingeniosos juegos derivados de Rovio, superando en originalidad a muchas de las secuelas directas de Angry Birds\n\nEl título cambia por completo la perspectiva al ponerte en los zapatos de los cerdos verdes, sustituyendo la destrucción destructiva por una mecánica de construcción de vehículos y resolución de acertijos de física sumamente adictiva\n\nMecánica creativa: Creas transportes con cajas, ruedas, globos, motores y cohetes\n\nObjetivo principal: Llevar al cerdo hacia los fragmentos del mapa de los huevos\n\nísica realista: Cada pieza afecta el peso, la velocidad y la estabilidad del vehículo\n\nFilosofía de juego: El fracaso no penaliza; ver explotar tus inventos es divertido\n\nSi buscas un juego casual que no sea lineal, que te obligue a pensar y que ofrezca horas de contenido gratuito, es una descarga obligatoria\n\nEn modo dock (sin pantalla táctil) el boton + activa el cursor , mientras que el boton - desactiva el cursor, el joystick izquierdo controla el cursor en pantalla y el botón A sirve para pulsar. En modo portatil solo se usa la pantalla tactil\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
@@ -1271,7 +1271,7 @@
       "name": "HEARTS",
       "title": "Kingdom Hearts Union X Dark Road",
       "author": "NaGaa",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Port Android",
       "details": "Kingdom Hearts Union X Dark Road es un RPG de estrategia que explora el pasado del villano principal, Xehanort. Su historia es muy oscura y brillante, pero su sistema de juego es flojo. El juego cerró sus servidores, por lo que ahora es una aplicación para ver su gran historia de principio a fin sin jugar\n\nHistoria: El origen del villano\n\nEl juego te pone en la piel de un joven Xehanort mientras entrena en la ciudad de Scala ad Caelum. Es una historia excelente y madura. Te enseña por qué Xehanort eligió el camino de la oscuridad y cómo conoció a Eraqus. Además, conecta el destino de los Maestros Perdidos con eventos importantes que cambian toda la saga\n\nJugabilidad: Un modo automático aburrido\n\nEl sistema de combate se basa en usar cartas para atacar y defender. Tras cerrar sus tiendas digitales, el juego se volvió una experiencia sin conexión (offline). Ahora, las peleas se juegan solas (modo automático) y el sistema no tiene mucha emoción\n\n¿Vale la pena?\n\nSi quieres entender toda la historia de Kingdom Hearts, este juego es obligatorio. Sin embargo, quizas no tenga tanto valor como videojuego.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
@@ -1283,7 +1283,7 @@
       "binary": "/switch/khux_nx/khux_nx.nro",
       "filesize": 2269181,
       "extracted": 2303013,
-      "updated": "4/06/2026",
+      "updated": "21/06/2026",
       "screens": 5
     },
     {
@@ -1524,7 +1524,7 @@
       "name": "SUB",
       "title": "Subway Surfers",
       "author": "NaGaa",
-      "version": "1.0.1",
+      "version": "1.0.3",
       "description": "Port Android",
       "details": "Subway Surfers es uno de los videojuegos más icónicos y exitosos de la historia, destacando por su accesibilidad, diseño colorido y una jugabilidad adictiva que se mantiene fresca a pesar de los años\n\nEste título definió el género de los endless runners (corredores sin fin) junto a clásicos como Temple Run, logrando mantenerse vigente gracias a un flujo constante de actualizaciones\n\nJugabilidad y Control\n\nLa premisa del juego es simple pero efectiva: controlas a un joven grafitero (Jake por defecto) que debe escapar de un inspector de trenes y su perro a través de las vías del metro\n\nControles intuitivos: El movimiento se basa puramente en deslizar el dedo (arriba para saltar, abajo para rodar, y a los lados para cambiar entre tres carriles)\n\nCurva de dificultad: La velocidad del juego aumenta progresivamente, exigiendo reflejos rápidos y precisión conforme avanzas\n\nPotenciadores estratégicos: Objetos como la mochila propulsora, los imanes de monedas y los tenis de supersalto añaden dinamismo a la jugada\n\nLas tablas de surf (Hoverboards): Funcionan como una segunda oportunidad. Si chocas mientras usas una, la partida continúa\n\nGráficos atemporales: Su estilo artístico caricaturesco y colorido en alta definición envejece muy bien y funciona de manera fluida en casi cualquier dispositivo\n\nEs la opción perfecta para partidas rápidas en momentos muertos del día. Aunque carece de una historia profunda o mecánicas complejas, cumple a la perfección su único cometido: entretener de manera inmediata\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
@@ -1535,7 +1535,7 @@
       "binary": "/switch/subwaysurfers_nx/subwaysurfers_nx.nro",
       "filesize": 168083,
       "extracted": 303268,
-      "updated": "19/06/2026",
+      "updated": "21/06/2026",
       "screens": 5
     },
     {
