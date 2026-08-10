@@ -1720,6 +1720,24 @@
       "screens": 5
     },
     {
+      "name": "DIABLO",
+      "title": "Diablo 1 DevilutionX",
+      "author": "Diasurgical",
+      "version": "1.5.5",
+      "description": "Port PC",
+      "details": "DevilutionX es la mejor forma absoluta de experimentar el Diablo 1 original y su expansión Hellfire\n\n. No es un remake que altera los sistemas centrales del juego, sino un motor moderno reconstruido mediante ingeniería inversa que repara bugs históricos, añade resoluciones de alta definición y amplía la accesibilidad a plataformas modernas\n\nLo Excelente: Fidelidad y Modernización Sutil\n\nPreservación Visual Purista: Soporta pantallas panorámicas a 60 FPS sin destruir la clásica atmósfera gótica y pixelada de los años 90\n\nMejoras de Calidad de Vida (QoL): Añade la función de correr en el pueblo (esencial para no perder tiempo de caminata), barra de experiencia visible, menús de compra limpios con imágenes y visualización de mapa dentro de Tristram\n\nIdiomas: Cuenta con traducción completa al español para voces, textos y menús, algo que el juego clásico no ofrecía de fábrica\n\nFiel al Pasado: Al mantener intacto el diseño de 1996, la jugabilidad puede sentirse un poco rígida, lenta o repetitiva para las nuevas generaciones acostumbradas al ritmo frenético de Diablo IV o Path of Exile\n\nClases Ocultas: Permite activar fácilmente las clases del Bardo y el Bárbaro heredadas de Hellfire, pero estas carecen de sprites únicos\n\nControles\n\nJoystick izquierdo o cruceta : mover personaje\n\nB : seleccionar hechizo, botón de cancelar en el menú\n\nX : recoger oro/objetos/pociones del suelo, abrir cofre/puerta cercana, usar objeto en el inventario\n\nA : atacar enemigo cercano, hablar con personajes, recoger/soltar objeto en el inventario, botón Aceptar en el menú\n\nY : hechizo, eliminar personaje en el menú principal\n\nL : beber poción de salud\n\nR : beber poción de maná\n\nJoystick derecho : mover cursor del ratón\n\nZR : inventario\n\nZL : pantalla de personaje\n\nClick joystick izquierdo : automapa\n\nClic  joystick derecho : clic izquierdo del ratón\n\nPlus y cruceta : abrir menú, interrumpir introducción\n\nMinus y ZL : registro de misiones\n\nMinus y ZR : libro de hechizos\n\nMinus y clic del joystick derecho : clic derecho del ratón\n\nMinus y A/B/X/Y : tecla de acceso rápido para hechizos\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Alpha/releases/download/Nuevo/DIABLO.zip",
+      "instalacion": "forwarders/ports_juegos/Diablo_1/Diablo_1.nsp",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/devilutionx-switch/devilutionx.nro",
+      "filesize": 791879,
+      "extracted": (807156,
+      "updated": "25/06/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
