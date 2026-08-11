@@ -1738,6 +1738,24 @@
       "screens": 5
     },
     {
+      "name": "BALLOON",
+      "title": "Diddy Kong Racing - GoldenBalloon",
+      "author": "Boraeskicioglu",
+      "version": "1.2.0",
+      "description": "Port PC",
+      "details": "Golden Balloon es el port nativo de Diddy Kong Racing más ambicioso y perfecto hasta la fecha\n\nTras completarse la descompilación del código fuente original al 100%, este proyecto revive el clásico de Rare de 1997 sin necesidad de emuladores defectuosos\n\nOfrece una jugabilidad extremadamente fluida a altas tasas de refresco, soporte para pantallas anchas y un apartado técnico impecable\n\nLo mejor de Golden Balloon\n\nRendimiento y fluidez: El juego corre de forma nativa a 60 FPS (o más) eliminando los tirones del hardware original.\n\nTres modos visuales: Incluye el Pure Mode (aspecto original N64), Restored Mode (pantalla ancha y resolución hasta 4K) y Remastered Mode (modelos 3D y texturas mejoradas)\n\nControles modernos: Soporta mandos actuales sin configurar plugins complejos y mapea el control de la cámara de forma fluida.\n\nFiel al clásico: Mantiene intacta la increíble campaña individual, el hub central y los tres tipos de vehículos (kart, avión y hovercraft)\n\nSi jugaste al título original en su día o buscas una alternativa con más progresión que Mario Kart 64, este port es la manera definitiva de experimentar una obra maestra. La fluidez de los vehículos voladores y el control en los derrapes se sienten mejor que nunca\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Delta/releases/download/Delta/BALLOON.zip",
+      "instalacion": "forwarders/ports_juegos/Diddy_Kong_Racing/Diddy_Kong_Racing.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/goldenballoon/goldenballoon.nro",
+      "filesize": 13856,
+      "extracted": 20892,
+      "updated": "26/06/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
