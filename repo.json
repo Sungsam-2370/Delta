@@ -1756,6 +1756,24 @@
       "screens": 5
     },
     {
+      "name": "MAGIC",
+      "title": "Heroes of Might and Magic 3",
+      "author": "NaGaa",
+      "version": "1.8.0",
+      "description": "Port PC",
+      "details": "Heroes of Might and Magic III: Complete es considerado unánimemente el pináculo de la estrategia por turnos y uno de los mejores videojuegos de la historia\n\nEsta edición definitiva reúne el juego base (The Restoration of Erathia) junto a sus dos expansiones oficiales (Armageddon's Blade y The Shadow of Death), ofreciendo una cantidad abrumadora de contenido que se mantiene perfectamente vigente\n\nLo mejor del juego\n\nJugabilidad adictiva: El ciclo de explorar el mapa, recolectar recursos, mejorar tu castillo y combatir por turnos es perfecto.\n\nContenido masivo: Incluye decenas de campañas, cientos de mapas individuales, 9 facciones únicas y más de 100 unidades distintas\n\nBanda sonora magistral: La música ambiental y los efectos de sonido sumergen por completo al jugador en un mundo de fantasía épica\n\nEquilibrio estratégico: Cada facción (desde el Castillo humano hasta la Necrópolis) exige tácticas y héroes totalmente diferentes\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Delta/releases/download/Delta/MAGIC.zip",
+      "instalacion": "forwarders/ports_juegos/Might_Magic_3/Might_Magic_3.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/vcmi/vcmiclient.nro",
+      "filesize": 1119998,
+      "extracted": 1223298,
+      "updated": "26/06/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
