@@ -1308,7 +1308,7 @@
       "name": "WORLD",
       "title": "SMW Remastered Plus",
       "author": "Delson",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "description": "Port Android",
       "details": "Super Mario World Remastered Plus es un proyecto fan-game Boswer811/Super-Mario-World-Remastered-Plus no oficial desarrollado en el motor Godot. Busca trasladar la magia clásica de 16 bits de la Super Nintendo a la actualidad, añadiendo nuevas características y mejoras de calidad de vida al diseño original.\n\nEl título ofrece una reimaginación de la clásica aventura de Mario y Yoshi. Aunque mantiene el diseño de niveles fundamental que hizo famoso al original, introduce ciertas libertades y comodidades modernas\n\nApartado Visual: Mantiene el encanto del pixel art original pero a menudo con mejoras en la resolución, interfaz adaptada y pequeños retoques en los fondos para darles una sensación más fluida y adaptada a pantallas modernas.\n\nJugabilidad y Física: Es en este apartado donde el proyecto suele recibir críticas mixtas. Mientras que algunos jugadores disfrutan de las adiciones, la física y el control pueden sentirse diferentes a los de la SNES original. Algunos usuarios han señalado que la inercia y el salto no replican con total precisión la obra maestra de 1990\n\nExtras: Como su nombre indica, la coletilla Plus apunta a funciones adicionales no presentes en el juego base, como opciones de personalización, ajustes y niveles modificados\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
@@ -1319,7 +1319,7 @@
       "binary": "/switch/smwr_nx/smwr.nro",
       "filesize": 78536,
       "extracted": 146100,
-      "updated": "7/06/2026",
+      "updated": "27/06/2026",
       "screens": 5
     },
     {
@@ -1554,7 +1554,7 @@
       "binary": "/switch/Lighthouse/Lighthouse.nro",
       "filesize": 76098,
       "extracted": 315578,
-      "updated": "27/06/2026",
+      "updated": "28/06/2026",
       "screens": 5
     },
     {
@@ -1752,7 +1752,7 @@
       "binary": "/switch/goldenballoon/goldenballoon.nro",
       "filesize": 13856,
       "extracted": 20892,
-      "updated": "27/06/2026",
+      "updated": "28/06/2026",
       "screens": 5
     },
     {
@@ -1849,7 +1849,7 @@
       "name": "RAGEX",
       "title": "Streets of Rage X",
       "author": "Delson",
-      "version": "1.0.0.1",
+      "version": "1.0.1",
       "description": "Port PC",
       "details": "Streets of Rage X es uno de los mejores fangames de estilo beat 'em up desarrollados con el motor OpenBOR\n\nDiseñado para revivir la trilogía clásica de SEGA con mejoras modernas excepcionales, las campañas, este título destaca por recrear con total fidelidad los tres juegos originales completos, añadiendo mecánicas contemporáneas de combate que transforman radicalmente la experiencia jugable\n\nLo Mejor del Sistema de Combate\n\nCombos avanzados: Introduce mecánicas de rebote contra la pared (wall juggles) y cancelaciones de ataque que permiten encadenar combinaciones aéreas devastadoras\n\nSistema de guardia: Permite bloquear ataques enemigos, lo que añade una capa estratégica inédita respecto a los clásicos\n\nGestión de estrellas: Almacenar estrellas bajo la barra de salud desbloquea movimientos alternativos (blitz), contraataques rápidos y el poderoso ataque especial Rage\n\nApartado Técnico y Funciones Modernas\n\nFidelidad absoluta: Mantiene los sprites y la atmósfera retro original de Mega Drive, pero adaptados a pantallas anchas (widescreen) para dar cabida a más enemigos en pantalla\n\nRejugabilidad masiva: Cuenta con múltiples rutas clásicas, personalización profunda mediante parches descargables y una fluidez técnica impecable\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
@@ -1860,7 +1860,7 @@
       "binary": "/switch/sorx_nx/sorx.nro",
       "filesize": 368431,
       "extracted": 405639,
-      "updated": "26/06/2026",
+      "updated": "27/06/2026",
       "screens": 5
     },
     {
@@ -1879,6 +1879,60 @@
       "filesize": 1033200,
       "extracted": 1106464,
       "updated": "26/06/2026",
+      "screens": 5
+    },
+    {
+      "name": "SONICJUMP",
+      "title": "Sonic Jump",
+      "author": "ChanseyIsTheBest",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Sonic Jump es un videojuego de plataformas vertical donde controlas a Sonic saltando de plataforma en plataforma para llegar a la cima de cada nivel, evitando enemigos y recolectando anillos\n\nModo Historia: Más de 40 niveles ambientados en zonas clásicas como Green Hill, Mountain Zone y Jungle Zone, cada una cerrando con un enfrentamiento contra el Dr. Eggman.\n\nModo Arcade: Un modo infinito donde saltas de forma vertical para conseguir la puntuación más alta posible mientras la pantalla sube de velocidad.\n\nPersonajes jugables: Desbloqueas a Tails, Knuckles, Amy, Blaze, Rouge y Silver, cada uno con habilidades únicas\n\nTienda del juego: Un menú donde gastas los anillos recolectados para comprar mejoras de habilidades, escudos, imanes de anillos y personajes\n\nDesafíos y Logros: Misiones secundarias en cada nivel que te otorgan experiencia y anillos extra al completarlas.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Programa/releases/download/Pruebas/SONICJUMP.zip",
+      "instalacion": "forwarders/ports_juegos/Sonic_Jump/Sonic_Jump.nsp",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/sonicjump_nx/sonicjump_nx.nro",
+      "filesize": 110551,
+      "extracted": 132377,
+      "updated": "27/06/2026",
+      "screens": 5
+    },
+    {
+      "name": "JET",
+      "title": "Jetpack Joyride",
+      "author": "Naga",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Jetpack Joyride es uno de los videojuegos más icónicos, adictivos y mejor calificados de la historia\n\nLanzado originalmente en 2011, este título popularizó el género endless runner (carrera infinita) y se mantiene vigente gracias a mecánicas simples que desafían constantemente los reflejos del jugador\n\nJugabilidad y Mecánicas\n\nLa premisa es sumamente sencilla: controlas a Barry Steakfries, un carismático héroe que roba un propulsor de ametralladoras de un laboratorio secreto llamado Legitimate Research\n\nControl con un toque: El personaje corre automáticamente hacia la derecha. Al pulsar la pantalla, el jetpack se activa y Barry se eleva; al soltarla, desciende por gravedad\n\nObstáculos dinámicos: El mapa está plagado de rayos láser permanentes, zappers eléctricos móviles y misiles teledirigidos que debes esquivar a toda velocidad\n\nVehículos delirantes: A lo largo del trayecto puedes abordar transportes especiales como el dragón mecánico (Cacho), un pájaro que dispara dinero, o trajes robóticos que cambian por completo la física del juego\n\nMisiones secundarias: Objetivos como choca las manos con 20 científicos o pasa raspando 5 zappers otorgan estrellas para subir de rango\n\nTienda (La Bolsa): Las monedas recolectadas sirven para comprar decenas de aspectos extravagantes, propulsores temáticos y ventajas (gadgets) que alteran las partidas, como imanes de monedas o botas de gravedad\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Programa/releases/download/Pruebas/JET.zip",
+      "instalacion": "forwarders/ports_juegos/jetpack_joyride/jetpack_joyride.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/jetpackjoyride_nx/jetpackjoyride_nx.nro",
+      "filesize": 461443,
+      "extracted": 588506,
+      "updated": "27/06/2026",
+      "screens": 5
+    },
+    {
+      "name": "FRUIT",
+      "title": "Fruit Ninja Classic+",
+      "author": "ChanseyIsTheBest",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Fruit Ninja Classic+ es la versión definitiva y nostálgica del legendario juego de rebanar frutas\n\nLo mejor del juego\n\nExperiencia Prémium Limpia: Al no tener anuncios invasivos ni muros de pago, puedes jugar de forma continua y desbloquear todo el contenido simplemente jugando\n\nModos de Juego Clásicos: Conserva la jugabilidad adictiva a través de sus tres modos principales:\n\nClásico: Tres vidas, aparecen bombas y la partida termina si dejas caer tres frutas o tocas un explosivo.\n\nArcade: Sesiones rápidas de 60 segundos con bananas especiales que otorgan multiplicadores o frenesís de fruta\n\nZen: Modo libre de 90 segundos sin bombas ni penalizaciones, ideal para relajarse\n\nDesbloqueables por Esfuerzo: El oro y las frutas estelares se ganan completando desafíos, permitiéndote conseguir más de 40 espadas estéticas y dojos con efectos visuales únicos\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Programa/releases/download/Pruebas/FRUIT.zip",
+      "instalacion": "forwarders/ports_juegos/Fruit_Ninja_Classic/Fruit_Ninja_Classic.nsp",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/fruitninja/fruitninja_nx.nro",
+      "filesize": 141760,
+      "extracted": 359991,
+      "updated": "27/06/2026",
       "screens": 5
     },
     {
