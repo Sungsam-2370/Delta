@@ -386,7 +386,7 @@
       "name": "DELFI",
       "title": "Dolphin Emulador Gamecube Wii",
       "author": "NaGaa - Dolphin Emulator Project",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "description": "Emulador Gamecube Wii",
       "details": "El emulador Dolphin es la herramienta definitiva del mundo de la emulación para revivir los catálogos de Nintendo GameCube y Wii\n\nGráficos mejorados: Permite modificar la resolución interna\n\nSoporte de Drivers (Vulkan): En sus actualizaciones más recientes, el emulador oficial permite añadir controladores gráficos personalizados\n\nActualizaciones Constantes: El equipo de desarrollo pule el código con regularidad\n\nCurva de configuración para Wii: Configurar los controles por movimiento del Wii (como el puntero o las sacudidas del mando) en una pantalla táctil puede ser frustrante y requiere invertir tiempo asignando botones\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
@@ -397,7 +397,7 @@
       "binary": "/switch/dolphin/dolphin.nro",
       "filesize": 15974,
       "extracted": 46795,
-      "updated": "24/06/2026",
+      "updated": "28/06/2026",
       "screens": 3
     },
     {
