@@ -1936,6 +1936,25 @@
       "screens": 5
     },
     {
+      "name": "UNREAL",
+      "title": "Unreal Gold",
+      "author": "fgsfds",
+      "version": "1.0.0",
+      "description": "Port PC",
+      "details": "Voces y Texto en Español - Texturas en HD\n\nUnreal Gold es una de las obras maestras absolutas de los disparos en primera persona (FPS) de los años 90, que recopila el juego original de 1998 junto con su expansión Return to Na Pali\n\nHistoria y Ambientación\n\nPremisa: Tomas el rol del Prisionero 849, el único superviviente del choque de la nave presidio Vortex Rikers en el hostil pero hermoso planeta alienígena Na Pali\n\nEl conflicto: Tu objetivo principal es escapar, pero en el camino descubres que los pacíficos nativos de cuatro brazos (los Nali) han sido brutalmente esclavizados por los Skaarj, una raza reptiliana tecnológicamente avanzada que busca explotar el mineral energético Tarydium\n\nNarrativa ambiental: A diferencia de otros shooters de la época como Quake, la historia no se cuenta con cinemáticas pesadas, sino a través de un traductor universal. Con él lees diarios de humanos caídos, grabaciones enemigas o textos sagrados en templos, logrando una inmersión sobresaliente\n\nJugabilidad y Diseño de Niveles\n\nEstructura: El juego destaca por su ritmo. Pasa de enormes valles abiertos con fauna alienígena que se siente viva, a claustrofóbicos pasillos tecnológicos y templos medievales flotantes\n\nArmamento único: Cuenta con una de las selecciones de armas más creativas del género, como el Flak Cannon (que dispara metralla ardiente) o el Razor Jack (que lanza discos que rebotan en las paredes), todas con un modo de disparo secundario que altera por completo la estrategia\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Programa/releases/download/Pruebas/UNREAL_1.zip",
+      "zip_url_2": "https://github.com/Sungsam-2370/Programa/releases/download/Pruebas/UNREAL_2.zip",
+      "instalacion": "forwarders/ports_juegos/Unreal/Unreal.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/UnrealGold/unreal.nro",
+      "filesize": 2285530,
+      "extracted": 3585530,
+      "updated": "28/06/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
