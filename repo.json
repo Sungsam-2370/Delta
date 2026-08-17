@@ -1955,6 +1955,24 @@
       "screens": 5
     },
     {
+      "name": "DIFFUSER",
+      "title": "F-Zero X - G-Difusser",
+      "author": "Zorkats - PalindromicBreadLoaf",
+      "version": "1.0.1",
+      "description": "Port PC-N64",
+      "details": "El proyecto G-Diffuser es el port nativo no oficial de F-Zero X, desarrollado por la comunidad mediante ingeniería inversa\n\nA diferencia de la emulación tradicional, este port ejecuta el juego de forma nativa en hardware moderno, lo que permite mejoras técnicas masivas sin alterar las físicas perfectas de 60 FPS del título original\n\nLo mejor de G-Diffuser\n\nSoporte Altas Resoluciones: Puedes jugar F-Zero X en pantallas panorámicas nativas sin estirar la imagen y con una nitidez absoluta\n\nF-Zero X Expansion Kit Incluido: Integra el mítico contenido del 64DD (el periférico de Nintendo 64 lanzado solo en Japón), lo que te da acceso directo al creador de pistas, editor de naves y las dos copas adicionales (DD-1 y DD-2)\n\nCero Latencia de Entrada (Input Lag): Al ser nativo, elimina el molesto lag de los emuladores o el servicio de Nintendo Switch Online, permitiendo un control milimétrico crucial para las velocidades extremas del juego\n\nSi eres fanático de las carreras futuristas de alta velocidad, G-Diffuser es la forma definitiva y superior de disfrutar de F-Zero X hoy en día. Revive un clásico con un rendimiento impecable y el largamente perdido contenido de expansión en una experiencia fluida e insuperable\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Programa/releases/download/Pruebas/DIFFUSER.zip",
+      "instalacion": "forwarders/ports_juegos/F_Zero_X/F_Zero_X.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/G-Diffuser/G-Diffuser.nro",
+      "filesize": 53090,
+      "extracted": 61733,
+      "updated": "29/06/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
