@@ -1973,6 +1973,24 @@
       "screens": 5
     },
     {
+      "name": "PERFECT",
+      "title": "Perfect Dark",
+      "author": "fgsfds",
+      "version": "1.0.0",
+      "description": "Port PC-N64",
+      "details": "El port nativo de Perfect Dark, desarrollado mediante ingeniería inversa y descompilación del código original de Nintendo 64, es actualmente la mejor forma absoluta de experimentar este shooter clásico\n\nes actualmente la mejor forma absoluta de experimentar este shooter clásico. Supera por completo las limitaciones técnicas de la consola original y elimina los caóticos problemas de configuración de los emuladores tradicionales\n\nEl juego nos traslada a un futuro distópico (ambientado en el entonces lejano año 2023). Tomamos el papel de Joanna Dark, una agente de élite del Instituto Carrington. Lo que comienza como una misión de infiltración corporativa en la siniestra empresa dataDyne, escala rápidamente hacia una conspiración alienígena mundial que involucra a dos razas extraterrestres en guerra: los Maian y los Skedar. Para la época de la N64, la narrativa destacó por incluir voces completamente actuadas y cinemáticas detalladas\n\nRendimiento y Mejoras Técnicas\n\nTasa de fotogramas fluida: Soporte nativo para 60 FPS estables\n\nControl moderno: Incorpora de forma excelente el soporte completo para dos palancas analógicas en mandos modernos\n\nVisuales adaptados: Soporte nativo para pantallas anchas (widescreen), alta resolución y ajuste de campo de visión (FOV) configurable\n\nConteni o y Modding\n\nCampaña y Multijugador: Tanto la campaña completa en solitario como el multijugador en pantalla dividida funcionan perfectamente\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Programa/releases/download/Pruebas/PERFECT.zip",
+      "instalacion": "forwarders/ports_juegos/Perfect_Dark/Perfect_Dark.nsp",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/perfectdark_pal/PerfectDark64.nro",
+      "filesize": 36637,
+      "extracted": 47735,
+      "updated": "30/06/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
