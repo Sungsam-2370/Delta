@@ -1991,6 +1991,24 @@
       "screens": 5
     },
     {
+      "name": "MASCARA",
+      "title": "TLoZ: Majora's Mask - 2Ship 2Harkinian",
+      "author": "Harbor Masters - reflex909",
+      "version": "5.0.0",
+      "description": "Port PC-N64",
+      "details": "2 Ship 2 Harkinian es la versión definitiva y superior para jugar The Legend of Zelda: Majora's Mask en hardware moderno, superando tanto a la emulación tradicional como al remake oficial de Nintendo 3DS\n\nDesarrollado por el equipo Harbor Masters, este proyecto no es un emulador, sino una descompilación nativa completa, lo que elimina por completo los problemas de rendimiento y latencia del juego original de Nintendo 64\n\nSinopsis General\n\nTras los eventos de Ocarina of Time, un joven Link viaja con su caballo Epona por los Bosques Perdidos en busca de una amiga querida (su hada Navi). En su camino, es emboscado por Skull Kid, un ser travieso bajo la influencia de la Máscara de Majora, un artefacto antiguo y malévolo. Skull Kid roba la Ocarina del Tiempo, transforma a Link en un matorral Deku y huye hacia un mundo paralelo llamado Términa\n\nLink descubre que Términa está condenada: Skull Kid está usando los poderes de la máscara para hacer que la Luna colisione contra la Tierra en exactamente tres días (72 horas)\n\n\n\n\n\n\n\n\n\nLo Mejor de 2 Ship 2 Harkinian\n\nRendimiento y Apartado Visual Impecables: El juego pasa de los toscos 20 FPS originales a una fluidez total de 60 FPS. Soporta pantallas widescreen y resoluciones en alta en definicion. Al acoplarse con paquetes de texturas en alta definición el juego luce como una remasterización moderna oficial\n\nCámara Libre en 3D: Uno de los mayores logros es la inclusión de una cámara libre controlable con el stick derecho o el mouse. Esto transforma por completo la exploración de Termina, haciéndola sentir moderna e intuitiva\n\nControles Personalizables: Permite remapear botones, asignar máscaras y objetos a múltiples ranuras del control (evitando pausar el juego constantemente)\n\nMenú de Configuración Avanzado (Enhancements): Al presionar la tecla - menos del joycon, accedes a un menú robusto que permite activar trucos (cheats), modificar la velocidad del juego, ajustar el audio y activar el modo noclip\n\nControles\n\nConsulta la publicacion de facebook para una descripcion mas extensa\n\nCONTROLES\n\nStick izquierdo → Moverse\n\nStick derecho → Cámara libre\n\n+ → Menú del juego\n\n– → Menú 2Ship para cambiar configuraciones del juego\n\nA → Aceptar / Acciones del juego\n\nB → Cancelar / Usar espada\n\nPresionar Stick izquierdo → Activar o desactivar correr\n\nY → C-Izquierda\n\nX → C-Abajo\n\nR → C-Derecha\n\nPresionar Stick derecho → C-Arriba / Hablar con el hada Tatl\n\nD-Pad → Funciona como los botones C al tocar la Ocarina, haciendo su uso mucho más cómodo e intuitivo\n\nD-Pad → También permite equipar objetos adicionales en cada dirección\n\nZR → Escudo\n\nZL → Marcar enemigo\n\nL → Mostrar u ocultar mapa\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Programa/releases/download/Pruebas/MASCARA.zip",
+      "instalacion": "forwarders/ports_juegos/Zelda_Majoras_2ship/Zelda_Majoras_2ship.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/Zelda_Majoras_2ship/2ship.nro",
+      "filesize": 1140848,
+      "extracted": 3011549,
+      "updated": "1/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
