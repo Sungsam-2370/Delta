@@ -422,7 +422,7 @@
       "name": "MINISH",
       "title": "TLoZ : The Minish Cap",
       "author": "Alexgg1014",
-      "version": "0.1.1",
+      "version": "1.1.1",
       "description": "Port GBA",
       "details": "Zelda Minish Cap es un port nativo, ofrece un rendimiento sumamente fluido y una latencia de entrada prácticamente nula, lo que perfecciona el control de Link en las secciones más rápidas de acción y plataformas. El apartado visual resalta enormemente: el icónico pixel art de Game Boy Advance se mantiene intacto pero se despliega con absoluta nitidez en pantallas de alta resolución, beneficiándose además de la adición de diversos filtros gráficos y shaders configurables que los usuarios han logrado integrar, es la mejor forma absoluta de jugar este clásico, superando a la emulación tradicional\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
