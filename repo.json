@@ -2009,6 +2009,25 @@
       "screens": 5
     },
     {
+      "name": "PAST3",
+      "title": "TLoZ: A Link To The Past",
+      "author": "Snesrev",
+      "version": "0.3.1",
+      "description": "Port PC-Snes",
+      "details": "El port no oficial de The Legend of Zelda: A Link to the Past es una reimplementación nativa mediante ingeniería inversa (descompilación de código) desarrollada por el programador snesrev\n\nEn el reino de Hyrule, el malvado mago Agahnim encarcela a la princesa Zelda y rompe el sello del Mundo Oscuro para liberar al tirano Ganon. El joven Link debe despertar el poder de la Espada Maestra y viajar entre dos dimensiones paralelas para rescatar a las descendientes de los sabios, derrotar a la oscuridad y restaurar la paz con la legendaria Trifuerza.\n\nCaracterísticas Principales del Port\n\nSoporte Widescreen Nativo: El juego se expande de forma inteligente a formatos 16:9 o pantallas anchas en lugar del formato cuadrado 4:3 original, mostrando más mapa en los laterales\n\nMejoras Visuales y Shaders: Permite aplicar sombreadores de píxeles (GLSL shaders) y filtros de escalado como Xprz para suavizar los gráficos\n\nRendimiento Perfecto: Tiempos de carga casi instantáneos y transiciones de pantalla aceleradas\n\nFunciones de Calidad de Vida: Incluye guardado automático continuo, una ranura secundaria para ítems y la recolección automática de objetos al golpearlos con la espada\n\nModificaciones Estéticas: Permite el uso de sprites personalizados mediante archivos .zpr para jugar con personajes de otros juegos\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Programa/releases/download/Pruebas/PAST3.zip",
+      "instalacion": "Descargas/Ports_Juegos/Zelda_ALTTP/NSP/Zelda_ALTTP.nsp",
+      "message": "IMPORTANTE: RECUPERA ESPACIO\n\nEl juego ya esta instalado, sin embargo el NSP esta ocupando 2 gigas de espacio, si quieres recuperarlo ve a la carpeta en la raiz de tu SD Descargas/Ports_Juegos/Zelda_ALTTP y borrala para borrar el NSP descargado que te ocupa espacio",
+      "license": "Español - Ingles",
+      "category": "Ports",
+      "binary": "none",
+      "filesize": 2074221,
+      "extracted": 2073911,
+      "updated": "2/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
