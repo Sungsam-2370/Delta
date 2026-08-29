@@ -295,7 +295,7 @@
       "binary": "none",
       "filesize": 2403183,
       "extracted": 3150232,
-      "updated": "08/07/2026",
+      "updated": "09/07/2026",
       "screens": 5
     },
     {
@@ -476,6 +476,24 @@
       "extracted": 46795,
       "updated": "28/06/2026",
       "screens": 3
+    },
+    {
+      "name": "V3K",
+      "title": "Vita3K - Playstation Vita",
+      "author": "Naga",
+      "version": "1.0.0",
+      "description": "Emulador Playstation Vita",
+      "details": "Vita3K es el primer y más avanzado emulador de PlayStation Vita de código abierto\n\nLo Mejor\n\nResolución Escalable: Permite disfrutar del catálogo de la portátil en altas definiciones, superando drásticamente los 960x544 píxeles nativos de la consola original\n\nExcelente Soporte Vulkan: La implementación de esta API gráfica ha mejorado drásticamente la carga de texturas y los cuadros por segundo (FPS)\n\nAlta Compatibilidad con Controles: Mapea de manera nativa mandos y los paneles táctiles para simular la pantalla trasera de la Vita\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Gamma/main",
+      "zip_url": "https://github.com/Sungsam-2370/Alpha/releases/download/Nuevo/V3K.zip",
+      "instalacion": "forwarders/Emuladores/Emulador_Vita3K/Emulador_Vita3K.nsp",
+      "license": "Español - Multi idioma",
+      "category": "Emuladores",
+      "binary": "/switch/vita3k/Vita3K.nro",
+      "filesize": 325250,
+      "extracted": 471004,
+      "updated": "9/06/2026",
+      "screens": 4
     },
     {
       "name": "SMASH",
