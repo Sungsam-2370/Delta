@@ -2377,6 +2377,24 @@
       "screens": 5
     },
     {
+      "name": "ANIL",
+      "title": "Pokémon Añil 4.13",
+      "author": "EricLostie - Randy - Luigi",
+      "version": "1.0.0",
+      "description": "Port PC",
+      "details": "La primera carga tarda unos 20 segundos (indexa 22.000 ficheros)\n\nControles\n\nA / B - Aceptar / Cancelar\n\nX - Correr\n\nY - Acción\n\nZL - Menú\n\nZR - Especial\n\nL / R - Anterior / Siguiente\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPokémon Añil es uno de los fangames en español más aclamados y ambiciosos de los últimos años, desarrollado originalmente por EricLostie\n\nEl juego se plantea como el remake definitivo de la región de Kanto (Generación 1), combinando nostalgia con mecánicas modernas de la novena generación, gráficos al estilo de Teselia (Blanco/Negro) y una importante dosis de madurez narrativa\n\nPuntos Fuertes\n\nMejoras de Calidad de Vida (QoL): Es su aspecto más alabado. Incorpora caramelos raros infinitos para evitar el grindeo, la posibilidad de cambiar naturalezas y habilidades al instante, curación total de PP en cualquier lugar y vuelo desbloqueado a zonas visitadas desde el inicio\n\nVariedad de Modos de Juego: Se adapta a cualquier tipo de jugador. Ofrece desde el modo clásico hasta desafíos Hardcore como el modo Nuzlocke integrado, Randomlocke, Monotipo, modo VGC (combates dobles) y un modo Sin Grindeo (que anula EVs e IVs para centrarse puramente en la estrategia)\n\nNarrativa más Completa: A diferencia de los planos juegos originales de Kanto, Añil reestructura la historia ofreciendo un verdadero desarrollo de personajes para los líderes de gimnasio, el rival (Azul) y el Team Rocket, haciendo que la región se sienta viva y cohesionada\n\nApartado Visual: El uso del pixel art inspirado en la quinta generación le da una estética moderna, fluida y muy vistosa, que supera con creces lo visto en Rojo Fuego o Verde Hoja\n\nSi tienes ganas de revivir Kanto pero estás cansado de las limitaciones de los juegos de Game Boy Advance, Pokémon Añil es una experiencia fresca, ágil y llena de contenido\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/HbScene2/releases/download/tests/ANIL.zip",
+      "instalacion": "forwarders/ports_juegos/Pokemon_Anil/Pokemon_Anil.nsp",
+      "license": "Español - Ingles",
+      "category": "Ports",
+      "binary": "/switch/pokemon-anil/pokemon-anil.nro",
+      "filesize": 601712,
+      "extracted": 717281,
+      "updated": "12/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
