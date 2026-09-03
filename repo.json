@@ -2341,6 +2341,24 @@
       "screens": 5
     },
     {
+      "name": "METRO",
+      "title": "Metroid Prime Origins",
+      "author": "Lv.4 Games",
+      "version": "1.0.1",
+      "description": "Port PC",
+      "details": "Metroid Prime Origins es un espectacular fangame y demake en 2D que adapta la experiencia del clásico Metroid Prime de GameCube al estilo visual y técnico de la NES de 8 bits\n\nLo que hace brillar a Metroid Prime Origins\n\nApartado artístico sobresaliente: La recreación de entornos icónicos en 8 bits (como la fragata inicial o los entornos de Tallon IV) funciona de manera brillante, capturando la melancolía y soledad de la saga\n\nControles modernos en 2D: A pesar de su estética retro (estilo NEStroid), incluye mecánicas de apuntado libre sacadas de entregas modernas como Samus Returns o Metroid Dread\n\nTraducción fiel de mecánicas: El juego adapta de forma ingeniosa el sistema de escaneo característico de los visores de Metroid Prime, utilizándolo para desvelar secretos y lore dentro de una perspectiva lateral\n\nEstructura clásica: Mantiene el inicio icónico de la serie donde el personaje pierde todas sus habilidades en un punto crítico, forzándote a explorar para recuperarlas\n\nSi disfrutas de la jugabilidad clásica de Super Metroid o de proyectos ambiciosos hechos por fans como Prime 2D, Metroid Prime Origins es una joya imperdible. Logra la hazaña de encoger un gigante en 3D en un cartucho imaginario de 8 bits sin perder la atmósfera agobiante y de exploración que define a Samus Aran\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/HbScene2/releases/download/tests/METRO.zip",
+      "instalacion": "forwarders/ports_juegos/Metroid_Prime_Origins/Metroid_Prime_Origins.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/mpo_nx/mpo_nx.nro",
+      "filesize": 435755,
+      "extracted": 506698,
+      "updated": "11/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
