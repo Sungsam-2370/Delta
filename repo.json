@@ -2305,6 +2305,24 @@
       "screens": 4
     },
     {
+      "name": "REGEN",
+      "title": "Mega Man X Regenesis",
+      "author": "StevensND",
+      "version": "1.0.0",
+      "description": "Port PC",
+      "details": "Mega Man X: Regenesis es un aclamado fan game gratuito\n\nEl juego se sitúa en una línea temporal alternativa de tono apocalíptico donde Sigma venció, X cayó y la humanidad está al borde de la extinción, forzando al Dr. Cain a activar un protocolo de emergencia para que X intente reescribir la historia\n\nLo Mejor\n\nFidelidad al motor clásico: Captura a la perfección el movimiento ágil, preciso y responsivo de los primeros tres juegos de SNES\n\nBanda sonora original: Cuenta con un apartado musical asombroso que evoca la época dorada de la franquicia\n\nContenido fresco: Incluye 8 jefes completamente nuevos diseñados desde cero con mecánicas únicas.\n\nEsencia nostálgica: Logra recuperar la mística y el prime que la saga oficial de Capcom había dejado de lado\n\nLos Desafíos\n\nDificultad elevada: Diversos analistas y jugadores señalan que es el Mega Man X más difícil desde el juego original\n\nCurva de aprendizaje: Supera notablemente la dificultad de títulos como Mega Man X5, por lo que requiere mucha paciencia y reflejos pulidos\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/HbScene2/releases/download/tests/REGEN.zip",
+      "instalacion": "forwarders/ports_juegos/MegaMan_Regenesis/MegaMan_Regenesis.nsp",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/mmxregenesis_nx/mmxregenesis_nx.nro",
+      "filesize": 101951,
+      "extracted": 193905,
+      "updated": "11/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
