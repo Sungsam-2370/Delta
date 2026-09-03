@@ -2323,6 +2323,24 @@
       "screens": 5
     },
     {
+      "name": "ZOMBO",
+      "title": "Zombotron Re-Boot",
+      "author": "StevensND",
+      "version": "1.0.2",
+      "description": "Port PC",
+      "details": "Zombotron Re-Boot es una excelente remasterización de la clásica trilogía de juegos Flash de plataformas y disparos en 2D\n\nLo Bueno\n\nFísica y Entorno Destructible: El núcleo divertido del original se mantiene intacto. El motor de física mejorado te permite interactuar con el entorno para aplastar o destruir oleadas de zombis y robots usando cajas, ascensores o trampas ambientales\n\nLavado de Cara Visual: Cuenta con gráficos actualizados, efectos de iluminación modernos y animaciones fluidas que le dan una gran atmósfera de ciencia ficción postapocalíptica sin perder su carismático estilo caricaturesco\n\nControles bien Adaptados: En móviles incluye un cómodo stick dual (uno para moverse y otro para apuntar) con autoapuntado opcional y es totalmente compatible con mandos Bluetooth\n\nNostalgia y Desafío: Es ideal si jugaste las entregas originales en sitios como Armor Games o Newgrounds, ofreciendo objetivos secundarios y logros en cada nivel para los completistas\n\nZombotron Re-Boot es un rotundo acierto tanto para los jugadores de la vieja escuela como para los amantes de la acción arcade en 2D. Logra rescatar un clásico que se creía perdido tras la muerte de Adobe Flash, entregando una experiencia divertida, destructiva y muy pulida\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/HbScene2/releases/download/tests/REGEN.zip",
+      "instalacion": "forwarders/ports_juegos/Zombotron/Zombotron.nsp",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/zombotron_nx/zombotron_nx.nro",
+      "filesize": 79669,
+      "extracted": 233319,
+      "updated": "11/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
