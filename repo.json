@@ -2286,6 +2286,25 @@
       "screens": 5
     },
     {
+      "name": "PES",
+      "title": "eFootball PES 2021 Mobile",
+      "author": "Ibnuard",
+      "version": "0.1.98",
+      "description": "Port Android",
+      "details": "eFootball PES 2021 Mobile es ampliamente considerado por la comunidad como el punto cumbre de la simulación de fútbol en dispositivos móviles, superando en jugabilidad pura a sus competidores directos de la época\n\nLo Mejor\n\nFísica de balón realista: A diferencia de la velocidad estilo fútbol sala de la competencia, aquí el mediocampo importa. El ritmo de juego es pausado y premia la construcción táctica y la precisión en los pases\n\nControles táctiles pulidos: La respuesta a los mandos virtuales o mediante gestos (Advanced Controls) ofrece una precisión altísima\n\nRostros y gráficos superiores: Utilizando el motor gráfico Unreal Engine, el escaneo facial de los jugadores estrella (como Messi, Neymar o Cristiano Ronaldo) superaba con creces a la competencia directa\n\nEl factor Iconic Moments: El diseño e inclusión de cartas de leyendas históricas en momentos específicos de sus carreras añadió un gran componente de nostalgia y colección\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/HbScene2/releases/download/tests/PES_1.zip",
+      "zip_url_2": "https://github.com/Sungsam-2370/HbScene2/releases/download/tests/PES_2.zip",
+      "instalacion": "forwarders/ports_juegos/PES_21/PES_21.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/pes21_nx/pes21_nx.nro",
+      "filesize": 3802477,
+      "extracted": 4209884,
+      "updated": "11/07/2026",
+      "screens": 4
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
