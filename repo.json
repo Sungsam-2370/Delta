@@ -2395,6 +2395,24 @@
       "screens": 5
     },
     {
+      "name": "CHAN",
+      "title": "Jackie Chan Stuntmaster Recomp",
+      "author": "SilverwireGames",
+      "version": "1.0.1",
+      "description": "Port PS1",
+      "details": "Jackie Chan Stuntmaster Recomp es un port nativo desarrollado mediante ingeniería inversa (sin emuladores)\n\nEl proyecto toma el icónico beat 'em up de la PlayStation original y lo traslada a la arquitectura moderna, resolviendo gran parte de las limitaciones técnicas de la época\n\nLo que hace espectacular a esta versión\n\nRendimiento moderno impecable: El juego ya no depende de emuladores para escalar la imagen. Ahora funciona con resolución de alta definición nativa, soporte de pantalla panorámica (widescreen) y a 60 FPS estables, lo que hace que los combates se sientan infinitamente más fluidos y satisfactorios\n\nMejoras visuales añadidas: Se han implementado sombras dinámicas en tiempo real sobre los personajes y los escenarios, dándole una profundidad visual de la que carecía en la PS1 original\n\nControles nativos: Incluye soporte optimizado para mandos de nueva generación sin lidiar con mapeos engorrosos\n\nConserva el carisma del original: Las increíbles animaciones capturadas por el mismísimo Jackie Chan con tecnología de motion capture, la banda sonora que mezcla el sonido oriental con el Drum and Bass, y la mítica comedia slapstick (¡como golpear maleantes usando un pescado congelado!) siguen intactas y más vivas que nunca\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/HbScene2/releases/download/tests/CHAN.zip",
+      "instalacion": "forwarders/ports_juegos/Jackie_Chan/Jackie_Chan.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/ReChan/rechan.nro",
+      "filesize": 903781,
+      "extracted": 1220491,
+      "updated": "13/07/2026",
+      "screens": 3
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
