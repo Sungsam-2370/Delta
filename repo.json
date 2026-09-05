@@ -2450,6 +2450,24 @@
       "screens": 5
     },
     {
+      "name": "CTRT",
+      "title": "Cut the Rope: Time Travel",
+      "author": "1timewire1",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Cut the Rope: Time Travel es una de las entregas más creativas y sólidas de la franquicia de puzles\n\nEl juego mantiene la adictiva esencia basada en la física del título original pero introduce un giro brillante: alimentar a dos monstruos a la vez en lugar de uno solo\n\nLa Premisa y Mecánica Principal\n\nEl carismático monstruo verde Om Nom viaja a través de la historia y se encuentra con sus simpáticos antepasados. Esto se traduce en que cada nivel cuenta con dos caramelos y dos bocas que alimentar en la misma pantalla\n\nEsta simple adición eleva exponencialmente la estrategia del juego: ya no solo debes cortar las cuerdas en el orden correcto, sino calcular trayectorias simultáneas o asincrónicas para que ningún personaje se quede sin su dulce\n\nVariedad de Épocas y Nuevas Herramientas\n\nEl título destaca por su progresión temática. Cada era histórica no solo cambia el aspecto visual y los disfraces de los personajes, sino que añade una mecánica exclusiva que transforma los acertijos\n\nLa Edad Media: Introduce cadenas de hierro que no se cortan deslizando el dedo, sino usando cuchillas especiales\n\nEl Renacimiento: Añade un botón para congelar el tiempo, permitiendo detener objetos o caramelos en el aire para cambiar su trayectoria\n\nEl Antiguo Egipto: Utiliza portales de teletransporte que mueven los dulces de un lado a otro del mapa\n\nBarco Pirata: Incorpora minas marinas y bombas que impulsan los caramelos con sus explosiones\n\nOtras eras como la Grecia Antigua, la Edad de Piedra y el Futuro aseguran que el juego cuente con más de 175 niveles llenos de frescura\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/HbScene2/releases/download/tests/CTRT.zip",
+      "instalacion": "forwarders/ports_juegos/ctr_timetravel/ctr_timetravel.nsp",
+      "license": "Español - Multi Idioma",
+      "category": "Ports",
+      "binary": "/switch/ctr_timetravel_nx/ctr_timetravel_nx.nro",
+      "filesize": 47911,
+      "extracted": 69662,
+      "updated": "15/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
