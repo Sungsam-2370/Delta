@@ -2432,6 +2432,24 @@
       "screens": 5
     },
     {
+      "name": "CTRM",
+      "title": "Cut the Rope Magic",
+      "author": "1timewire1",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Cut the Rope: Magic es una entrega sobresaliente que refresca con éxito la fórmula clásica de puzles basados en la física al introducir la mecánica de las transformaciones mágicas\n\nAunque mantiene la esencia adictiva de cortar cuerdas para alimentar al entrañable monstruo verde Om Nom, el juego destaca por su renovado apartado visual y su ingenioso diseño de niveles\n\nLo que más destaca\n\nMecánica de transformaciones: El gran acierto de este título es la capacidad de Om Nom para adoptar cinco formas mágicas distintas (pájaro, bebé, pez, ratón y espíritu). Cada transformación altera la física del personaje, permitiéndole volar, encogerse o atravesar paredes para resolver los acertijos\n\nDiseño gráfico impecable: Gráficamente es de los puntos más altos de la saga. Cuenta con un empleo del color fantástico, entornos bellamente detallados y animaciones extremadamente cuidadas que rebosan carisma\n\nPuzles inteligentes y jefes finales: Con más de 160 niveles, el juego equilibra muy bien los retos tradicionales de sincronización y cortes con batallas contra un hechicero malvado, aportando una excelente variedad\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/HbScene2/releases/download/tests/CTRM.zip",
+      "instalacion": "forwarders/ports_juegos/ctr_magic/ctr_magic.nsp",
+      "license": "Español - Multi Idioma",
+      "category": "Ports",
+      "binary": "/switch/ctr_magic_nx/ctr_magic_nx.nro",
+      "filesize": 52704,
+      "extracted": 114152,
+      "updated": "15/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
