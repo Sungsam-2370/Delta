@@ -2446,7 +2446,7 @@
       "binary": "/switch/ctr_magic_nx/ctr_magic_nx.nro",
       "filesize": 52704,
       "extracted": 114152,
-      "updated": "15/07/2026",
+      "updated": "13/07/2026",
       "screens": 5
     },
     {
@@ -2464,7 +2464,7 @@
       "binary": "/switch/ctr_timetravel_nx/ctr_timetravel_nx.nro",
       "filesize": 47911,
       "extracted": 69662,
-      "updated": "15/07/2026",
+      "updated": "13/07/2026",
       "screens": 5
     },
     {
@@ -2536,6 +2536,24 @@
       "binary": "/switch/hcr_nx/hcr_nx.nro",
       "filesize": 181771,
       "extracted": 225990,
+      "updated": "16/07/2026",
+      "screens": 5
+    },
+    {
+      "name": "SLAY2",
+      "title": "Slay Spire 2",
+      "author": "ChanseyIsTheBest",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Slay the Spire 2 consolidó el regreso del rey de los roguelikes de cartas\n\nEl estudio Mega Crit optó por no reinventar la rueda, sino por refinar al extremo la fórmula matemática y adictiva que hizo único al primer título\n\nLo Nuevo en la Torre\n\nNuevos Personajes: Junto a los clásicos rebalanceados (El Blindado, La Silenciosa y El Defectuoso), se añaden nuevas clases como El Regente (que maneja dos pulsos de energía) y La Vincula Huesos / Nigromante (que utiliza mecánicas de almas, condena y un guardaespaldas esquelético)\n\nEl Sistema de Cronología: Funciona como un árbol temporal que reemplaza la progresión clásica, expandiendo el lore y el trasfondo de la Torre de manera orgánica\n\nRutas Aleatorias y Eventos: Las bifurcaciones de los tres actos ahora son más impredecibles. Al terminar cada acto, nuevos personajes otorgan bendiciones especiales que afectan el mazo\n\n Si te gustó el primero, esta secuela es compra obligada. Se siente sumamente fresca, castiga más los errores\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/HbScene2/releases/download/tests/SLAY2.zip",
+      "instalacion": "forwarders/ports_juegos/Slay_Spire_2/Slay_Spire_2.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/sls2_nx/sts2.nro",
+      "filesize": 1325283,
+      "extracted": 2587732,
       "updated": "16/07/2026",
       "screens": 5
     },
