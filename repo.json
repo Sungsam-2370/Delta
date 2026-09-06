@@ -2504,6 +2504,24 @@
       "screens": 5
     },
     {
+      "name": "BEAN",
+      "title": "Killer Bean Unleashed",
+      "author": "ChanseyIsTheBest",
+      "version": "1.0.1",
+      "description": "Port Android",
+      "details": "Killer Bean Unleashed es un intenso juego de plataformas y disparos en 2D basado en el popular personaje animado, que ofrece una jugabilidad clásica de acción rápida combinada con un toque arcade directo y nostálgico\n\nCaracterísticas Principales\n\nJugabilidad de Acción 2D: Controlas a Killer Bean saltando, esquivando y disparando a través de hordas de enemigos mercenarios, robots y otras amenazas.\n\n29 Niveles Intensos: Una campaña dividida en desafiantes escenarios que exigen reflejos rápidos y precisión para dominar los saltos dobles y triples\n\nArsenal Desbloqueable: Permite desbloquear hasta 12 tipos de armas únicas con municiones especiales que cambian la dinámica de combate\n\nGráficos y Estilo: Mantiene una estética moderna adaptada a móviles sobre una base de plataformas bidimensional tradicional\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/HbScene2/releases/download/tests/BEAN.zip",
+      "instalacion": "forwarders/ports_juegos/Killer_Bean/Killer_Bean.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/killerbean/killerbean_nx.nro",
+      "filesize": 75821,
+      "extracted": 150223,
+      "updated": "16/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
