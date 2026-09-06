@@ -2355,7 +2355,7 @@
       "binary": "/switch/mpo_nx/mpo_nx.nro",
       "filesize": 435755,
       "extracted": 506698,
-      "updated": "14/07/2026",
+      "updated": "15/07/2026",
       "screens": 5
     },
     {
@@ -2518,6 +2518,24 @@
       "binary": "/switch/killerbean/killerbean_nx.nro",
       "filesize": 75821,
       "extracted": 150223,
+      "updated": "16/07/2026",
+      "screens": 5
+    },
+    {
+      "name": "CLIMB",
+      "title": "Hill_Climb_Racing",
+      "author": "xflipperkast",
+      "version": "1.1.0",
+      "description": "Port Android",
+      "details": "Hill Climb Racing para Android es uno de los títulos más icónicos y exitosos de la historia de los dispositivos móviles\n\nEste juego de conducción 2D destaca por su fórmula simple, adictiva y un sistema de físicas tan divertido como implacable\n\nJugabilidad y Mecánicas Core\n\nLa premisa del juego es directa: encarnas a Newton Bill, un aspirante a piloto que decide conquistar las colinas más altas del planeta (y más allá)\n\nControles minimalistas: Solo tienes dos botones en pantalla: Acelerador y Freno. No hay volante ni giroscopio\n\nEl desafío de la gravedad: Controlar el coche en el aire balanceándolo con ambos pedales es vital para evitar volcar. Si Bill cae de cabeza y se rompe el cuello, la partida termina de inmediato\n\nGestión de combustible: El mayor enemigo (además de los baches) es el tanque de gasolina. Debes avanzar rápido para recoger bidones antes de que el motor se apague\n\nBucle de progresión: Recorrer metros te otorga monedas y diamantes que usas para mejorar los componentes de tu vehículo (motor, suspensión, neumáticos y tracción) o para comprar nuevos mapas y autos\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/HbScene2/releases/download/tests/CLIMB.zip",
+      "instalacion": "forwarders/ports_juegos/Hill_Climb_Racing/Hill_Climb_Racing.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/hcr_nx/hcr_nx.nro",
+      "filesize": 181771,
+      "extracted": 225990,
       "updated": "16/07/2026",
       "screens": 5
     },
