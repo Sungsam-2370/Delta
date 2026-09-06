@@ -2486,6 +2486,24 @@
       "screens": 5
     },
     {
+      "name": "MIGHTY",
+      "title": "Mighty_Final_Fight_Forever",
+      "author": "Cpasjuste ",
+      "version": "1.0.0",
+      "description": "Port PC",
+      "details": "Mighty Final Fight Forever, el ambicioso proyecto fan-made desarrollado en el motor OpenBOR que reimagina y expande de forma masiva el clásico juego de NES lanzado originalmente por Capcom en 1993\n\nMighty Final Fight Forever es una carta de amor absoluta al beat 'em up retro, logrando corregir la mayor limitación de la versión original de NES (la falta de modo cooperativo) y añadiendo una cantidad impresionante de contenido nuevo sin perder la carismática estética chibi / súper deformada que definió al título\n\nLo Bueno\n\nBeneficios (Pros)Tradeoffs y Detalles (Contras)¡Por fin cooperativo! Soporte multijugador para disfrutar acompañado\n\nApartado visual renovado: Fluidez mejorada, más animaciones de impacto y soporte para pantalla ancha 16:9.\n\nContenido expandido: Nuevos niveles (como el icónico subterráneo), jefes inéditos y más enemigos del arcade original\n\nIdentidad Visual y Rendimiento: El juego preserva el tierno aspecto pixel art americano y japonés de NES, pero añade una capa de fluidez moderna en las animaciones. Los impactos se sienten pesados y gratificantes gracias a sutiles efectos de zoom durante los ataques especiales y súpers\n\nMecánicas y Progresión: Mantiene los divertidos toques de RPG (subir de nivel para desbloquear movimientos) del clásico de Capcom. Una novedad interesante es que ahora recolectas dinero en lugar de puntos, abriendo la puerta a sistemas de tiendas interactivos para comprar técnicas especiales\n\nFidelidad y Novedades: Logra un balance perfecto entre la nostalgia de la consola hogareña y la complejidad del arcade. Los desarrolladores integraron a villanos del Final Fight de recreativas que no cupieron en la memoria del cartucho de 8 bits, acompañados de bandas sonoras renovadas y una historia completamente nueva\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/HbScene2/releases/download/tests/MIGHTY.zip",
+      "instalacion": "forwarders/ports_juegos/Mighty_Final_Fight_Forever/Mighty_Final_Fight_Forever.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/OpenBOR/OpenBOR.nro",
+      "filesize": 474765,
+      "extracted": 517333,
+      "updated": "16/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
