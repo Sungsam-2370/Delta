@@ -2558,6 +2558,24 @@
       "screens": 5
     },
     {
+      "name": "QUA1",
+      "title": "Quake 1 - Quakespasm",
+      "author": "Thorhax",
+      "version": "0.93.3",
+      "description": "Port PC",
+      "details": "Quakespasm es considerado de forma unánime como el estándar de oro para jugar el Quake original\n\nRendimiento y Gráficos: El motor destaca por su fluidez. Soluciona bugs históricos del GLQuake original (como el famoso conteo de peces) y permite jugar a altas resoluciones sin alterar la paleta de colores ni la oscuridad opresiva característica del juego\n\nAudio y Música: Implementa soporte nativo para bandas sonoras externas en formatos .ogg y .mp3\n\nSi eres un jugador que busca disfrutar de la campaña original, sus expansiones y el inmenso catálogo de mapas creados por la comunidad con un comportamiento idéntico al de 1996, Quakespasm es una descarga obligatoria\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/HbScene2/releases/download/tests/QUA1.zip",
+      "instalacion": "forwarders/ports_juegos/Quake_1/Quake_1.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/quakespasm/quakespasmnx.nro",
+      "filesize": 59646,
+      "extracted": 134993,
+      "updated": "18/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
