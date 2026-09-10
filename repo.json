@@ -2702,6 +2702,24 @@
       "screens": 2
     },
     {
+      "name": "QUARIUM",
+      "title": "Insaniquarium Deluxe",
+      "author": "ChanseyIsTheBest",
+      "version": "1.0.1",
+      "description": "Port Android",
+      "details": "Insaniquarium Deluxe es uno de los mayores clásicos de culto de PopCap Games, lanzado originalmente en 2004. A pesar de tener más de dos décadas de existencia, este simulador de acuario frenético sigue siendo una obra maestra de la adicción, el encanto visual y la gestión del caos que define a la era dorada de los juegos casuales de PC\n\nJugabilidad: Del relax al caos absoluto\n\nEl bucle de juego es peligrosamente adictivo. Comienzas con un par de pequeños peces de colores (Guppies) a los que debes alimentar. A medida que crecen, dejan caer monedas que recolectas haciendo clic\n\nCon ese dinero puedes tomar decisiones estratégicas en tiempo real:\n\nComprar más peces para aumentar tus ingresos\n\nMejorar la calidad de la comida para que no mueran de hambre\n\nComprar armas para defender tu tanque\n\nAdquirir mascotas (Pets) con habilidades únicas que automatizan tareas o te defienden\n\nEl giro maestro del juego es la llegada de aliens invasores. El juego pasa instantáneamente de ser un pacífico acuario virtual a un clicker frenético donde debes acribillar a los monstruos antes de que se devoren a toda tu población marina.\n\nLas Mascotas: El corazón de la estrategia\n\nEl juego brilla gracias a sus 24 mascotas coleccionables. Solo puedes elegir hasta tres por nivel, lo que te obliga a crear sinergias según tu estilo de juego\n\nModos de Juego\n\nModo Aventura: Cuatro tanques principales con cinco niveles cada uno, culminando en una batalla final sorprendentemente desafiante\n\nModo Contrarreloj (Time Trial): Debes hacer la mayor cantidad de dinero posible en un límite de tiempo\n\nModo Desafío (Challenge): Para veteranos; los precios de los objetos suben constantemente mientras luchas por sobrevivir\n\nTanque Virtual (Virtual Tank): Un modo relajado donde compras peces con conchas (la moneda premium del juego) para cuidarlos como una mascota real\n\nGráficos y Sonido\n\nVisualmente, el juego desborda la estética nostálgica de los años 2000. Los diseños de los peces son caricaturescos, coloridos y llenos de personalidad. La banda sonora y los efectos de sonido (como el tintineo de las monedas de oro y los gritos de los aliens) se quedan grabados en la mente y complementan perfectamente el ritmo de juego\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/HbScene2/releases/download/tests/QUARIUM.zip",
+      "instalacion": "forwarders/ports_juegos/Insaniquarium/Insaniquarium.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/insaniquarium/insaniquarium_nx.nro",
+      "filesize": 13074,
+      "extracted": 20311,
+      "updated": "18/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
