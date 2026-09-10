@@ -2667,7 +2667,7 @@
     },
     {
       "name": "DK2RE",
-      "title": " Donkey Kong Country 2: Diddy's Kong Quest",
+      "title": " DKC 2: Diddy's Kong Quest",
       "author": "souldbminerr",
       "version": "0.0.5",
       "description": "Port SNES",
@@ -2682,6 +2682,24 @@
       "extracted": 27021,
       "updated": "18/07/2026",
       "screens": 3
+    },
+    {
+      "name": "STARF",
+      "title": "Star Fox Enhanced",
+      "author": "Star Fox Enhanced team",
+      "version": "0.0.3",
+      "description": "Port SNES",
+      "details": "El lanzamiento de Star Fox Enhanced (el port nativo no oficial para PC de la entrega original de SNES) ha tomado por sorpresa a la comunidad del modding y la preservación retro\n\nCreado mediante ingeniería inversa y recompilación a partir del código base, el proyecto no es una emulación común; es la transformación definitiva de un clásico de 1993 a estándares moderno\n\nLo que hace brillar a Star Fox Enhanced\n\nFluidez extrema sin romper la física: El juego original de Super Nintendo corría a unos sufridos 10 o 12 FPS debido a las limitaciones del chip Super FX. Este port permite seleccionar configuraciones nativas que van desde los 60 FPS estándar hasta unos brutales 480 FPS. La magia radica en que la lógica del juego (colisiones, daño, scripts) sigue operando a los 20 Hz originales, logrando suavidad mediante interpolación visual sin acelerar el juego\n\nSoporte para pantallas modernas: Olvídate del formato cuadrado de tubo. Soporta aspecto 16:9. El port expande el campo visual real en lugar de simplemente estirar la imagen original\n\nExtras integrados: Incluye de forma nativa soporte para mods masivos de la comunidad y hacks, como el aclamado Star Fox EX, expandiendo drásticamente el contenido disponible\n\nAudio optimizado: Soporta el sistema de audio MSU-1, permitiendo reproducir música con calidad de CD o composiciones orquestales en alta fidelidad junto a los efectos retro del chip SPC700\n\nEstado de desarrollo temprano: Al encontrarse en fases Alfa, persisten ciertos errores visuales secundarios. Algunas texturas de fondo o cinemáticas interiores pueden presentar desajustes menores en los bordes de pantallas panorámicas\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/HbScene2/releases/download/tests/STARF.zip",
+      "instalacion": "forwarders/ports_juegos/StarFoxEnhanced/StarFoxEnhanced.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/StarFoxEnhanced/StarFoxEnhanced.nro",
+      "filesize": 6563,
+      "extracted": 15404,
+      "updated": "18/07/2026",
+      "screens": 2
     },
     {
       "name": "ANDREASESP",
