@@ -55,7 +55,7 @@
       "screens": 5
     },
     {
-      "name": "STRIKE",
+      "name": "STRIKER",
       "title": "Super Mario Strikers",
       "author": "New-coke",
       "version": "1.3.0",
@@ -487,7 +487,7 @@
       "version": "1.0.0",
       "description": "Traduccion Español",
       "details": "Hoja Verde Company les trae la traduccion del juego Hong Kong Shadowrun, basados en la traduccion de PC realizada por LaZar0 y adaptandola a la consola switch para todos ustedes\n\nShadowrun: Hong Kong es la culminación de la aclamada trilogía de cRPGs tácticos desarrollados por Harebrained Schemes\n\nEs una obra excelente para los amantes del rol clásico de la vieja escuela, aunque exige una gran disposición para la lectura\n\nTrama y Ambientación: Exotismo Cyberpunk\n\nA diferencia de los entornos occidentales habituales, el juego nos traslada a una Hong Kong futurista del año 2056, gobernada por megacorporaciones y las despiadadas Tríadas\n\nLa premisa: Llegas como un extranjero exconvicto de Seattle tras recibir un críptico mensaje de tu padre adoptivo. Tras una emboscada policial, terminas refugiándote en los suburbios de Heoi y trabajando como shadowrunner (mercenario encubierto) para la Tríada a cambio de protección\n\nNarrativa densa: El juego funciona prácticamente como una novela interactiva con muros de texto de altísima calidad que describen detalladamente el ambiente y las emociones. Los personajes de tu equipo y los habitantes del nexo central (hub) tienen un trasfondo sumamente rico con los que deberás hablar constantemente\n\nJugabilidad: Más Rol, Menos Combate Obligatorio\n\nEl juego mantiene su perspectiva isométrica y su combate táctico por turnos basado en Puntos de Acción (PA), similar a la saga XCOM. Sin embargo, implementa cambios notables respecto a Dragonfall\n\nDiplomacia y Habilidades: Hay un peso mucho mayor en las estadísticas de carisma y diálogos. Si construyes un personaje hábil con las palabras, podrás evitar combates enteros completando las misiones de forma pacífica o sigilosa\n\nLa Matrix Renovada: Se rediseñó por completo el sistema de Netrunning. Hackear la red ya no es un simple combate por turnos plano, sino que introduce mecánicas de sigilo en tiempo real y minijuegos de memoria, convirtiéndola en una de las mejores representaciones del ciberespacio en el género\n\n\nDESCARGA:\nEsta traducción se descargará directo a tu carpeta contents, no necesitas hacer nada mas\n\nINSTALACIÓN:\nDebes tener el juego Hong Kong Shadowrun instalado, la traducción se aplicara automáticamente al descargar, solo abre el juego y prueba\n\nNOTA:\nSi por alguna razón quieres eliminar la traducción, puedes usar el boton BORRAR de este programa y automáticamente se eliminara, o puedes borrar manualmente entrando a tu carpeta contents y borra la carpeta 0100C610154CA000",
-      "zip_url": "https://github.com/Sungsam-2370/Epsilon/releases/download/Base/HONG.zip		",
+      "zip_url": "https://github.com/Sungsam-2370/Epsilon/releases/download/Base/HONG.zip",
       "license": "Español",
       "category": "Traducciones",
       "binary": "none",
