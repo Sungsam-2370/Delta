@@ -3087,6 +3087,25 @@
       "screens": 4
     },
     {
+      "name": "MARATON",
+      "title": "Sonic the Hedgehog ",
+      "author": "Hedge-dev - Nagga",
+      "version": "1.0.2",
+      "description": "Port XBOX 360",
+      "details": "Sonic the Hedgehog (2006), conocido popularmente como Sonic '06, es un videojuego de plataformas y acción desarrollado por Sonic Team y publicado por SEGA para Xbox 360 y PlayStation 3\n\nConcebido originalmente para conmemorar el 15.º aniversario de la franquicia y como un ambicioso reinicio al estilo de Sonic Adventure\n\nHistoria y Argumento\n\nLa trama se divide en tres campañas principales que se entrelazan: la de Sonic, la de Shadow y la de un nuevo personaje, Silver\n\nSonic: Debe rescatar constantemente a la princesa Elise de la ciudad de Soleanna del Dr. Eggman, quien busca liberar las Llamas del Desastre (el dios Solaris). La relación entre Sonic y Elise fue fuertemente criticada por ser forzada y poco natural\n\nShadow: Trabaja con Rouge y se enfrenta a Mephiles, un ente oscuro capaz de manipular el tiempo. Esta campaña suele considerarse la más sólida e interesante a nivel narrativo\n\nSilver: Proviene de un futuro apocalíptico destruido por la entidad Iblis. Engañado por Mephiles, viaja al pasado para matar a Sonic, creyendo que él es el origen de la catástrofe\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "http://205.209.102.107/Luis/MARATON_1.zip",
+      "zip_url_2": "http://205.209.102.107/Luis/MARATON_2.zip",
+      "instalacion": "forwarders/ports_juegos/Sonic_Hedgehog_2006/Sonic_Hedgehog_2006.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/MarathonRecomp/MarathonRecomp.nro",
+      "filesize": 5469012,
+      "extracted": 5576476,
+      "updated": "21/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
