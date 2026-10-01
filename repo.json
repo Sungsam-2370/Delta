@@ -3178,6 +3178,25 @@
       "screens": 5
     },
     {
+      "name": "MOHAA",
+      "title": "MoH: Allied Assault - OpenMoHAA",
+      "author": "NaGaa95",
+      "version": "0.83.0",
+      "description": "Port PC",
+      "details": "Incluye Spearhead y Breakthrough\n\nOpenMoHAA es un motor de código abierto de vanguardia diseñado para modernizar y preservar el legendario juego de disparos en primera persona Medal of Honor: Allied Assault\n\nLo que hace excelente a OpenMoHAA\n\nEstabilidad y rendimiento moderno: Los usuarios reportan que el motor es altamente estable, permitiendo jugar de principio a fin misiones icónicas como el Desembarco de Omaha (D-Day) sin cuelgues ni errores\n\nMejoras visuales y de audio: Integra un backend de SDL2 y sonido a través de OpenAL, lo que eleva drásticamente la calidad del audio. Además, escala la interfaz de usuario de manera automática para resoluciones modernas\n\nExpansiones incluidas: Soporta perfectamente las campañas y archivos base tanto del juego principal como de sus expansiones oficiales, Spearhead y Breakthrough, e incluye de fábrica las correcciones de sus últimos parches oficiales\n\nMultijugador y bots: El modo multijugador ha evolucionado, facilitando la conexión a servidores comunitarios e incluyendo herramientas avanzadas para administradores (como sistemas de ban). Además, añade un sistema de bots nativo, ideal para quienes quieren revivir los mapas multijugador en solitario\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Epsilon/releases/download/Base/MOHAA_1.zip",
+      "zip_url_2": "https://github.com/Sungsam-2370/Epsilon/releases/download/Base/MOHAA_2.zip",
+      "instalacion": "forwarders/ports_juegos/Medal_of_Honor_Allied_Assault/Medal_of_Honor_Allied_Assault.nsp",
+      "license": "Español - Ingles",
+      "category": "Ports",
+      "binary": "/switch/openmohaa/openmohaa.nro",
+      "filesize": 2965978,
+      "extracted": 3073423,
+      "updated": "21/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
