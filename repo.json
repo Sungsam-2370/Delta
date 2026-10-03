@@ -3350,7 +3350,7 @@
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
       "zip_url": "https://github.com/Sungsam-2370/Epsilon/releases/download/Base/KARTWI_1.zip",
       "zip_url_2": "https://github.com/Sungsam-2370/Epsilon/releases/download/Base/KARTWI_2.zip",
-      "instalacion": "forwarders/ports_juegos/Mario_Kart_Wii/Mario_Kart_Wii.nspp",
+      "instalacion": "forwarders/ports_juegos/Mario_Kart_Wii/Mario_Kart_Wii.nsp",
       "license": "Español",
       "category": "Ports",
       "binary": "/switch/WiiCompiled/DriftDroid.nro",
