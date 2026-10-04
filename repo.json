@@ -3360,6 +3360,25 @@
       "screens": 5
     },
     {
+      "name": "MOSTWAN",
+      "title": "NfS: Most Wanted",
+      "author": "StevensND",
+      "version": "1.0.0",
+      "description": "Port Xbox360",
+      "details": "Need for Speed: Most Wanted es uno de los nombres más icónicos en la historia de los videojuegos de carreras\n\nConsiderada por la comunidad y la crítica como el punto álgido de toda la franquicia, esta entrega perfeccionó la fórmula de la cultura del tuneo callejero mezclada con la adrenalina de la acción cinematográfica\n\nLa Trama y la Blacklist: El juego te pone en la piel de un conductor que es traicionado y pierde su icónico BMW M3 GTR ante el tramposo Razor. Para recuperarlo, debes ascender desde el puesto 15 hasta el número 1 en la Blacklist de los pilotos más buscados de la ciudad de Rockport\n\nPersecuciones Policiales Magistrales: Su punto más fuerte e innovador. Las fuerzas de la ley son inteligentes, agresivas y desafiantes, escalando en intensidad en 5 niveles de condición (haciendo que escapar con llantas pinchadas sea una experiencia tensa y memorable)\n\nIdentidad y Estilo: Presenta una estética inconfundible con filtros sepia, cinemáticas con actores reales digitalizados (FMV) y una banda sonora de rock y hip-hop grabada en la memoria colectiva de los fans\n\nSi buscas la experiencia definitiva de carreras urbanas con narrativa, adrenalina policial insuperable y nostalgia pura, debes ir por el Most Wanted\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "http://205.209.102.107/Luis/MOSTWAN_1.zip",
+      "zip_url_2": "http://205.209.102.107/Luis/MOSTWAN_2.zip",
+      "instalacion": "forwarders/ports_juegos/NFS_Most_Wanted/NFS_Most_Wanted.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/nfsmw-nx/nfsmw-nx.nro",
+      "filesize": 5593447,
+      "extracted": 7072454,
+      "updated": "24/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
