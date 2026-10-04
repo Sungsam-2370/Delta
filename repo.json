@@ -3379,6 +3379,24 @@
       "screens": 5
     },
     {
+      "name": "UNDERG2",
+      "title": "NfS Underground 2",
+      "author": "antoxa2584x",
+      "version": "0.4.0",
+      "description": "Port Xbox",
+      "details": "Need for Speed: Underground 2 es considerado de forma unánime uno de los pilares de la cultura del tuning y los videojuegos de carreras urbanas\n\nSupuso una auténtica revolución al implementar por primera vez en la saga un concepto de mundo abierto inspirado en el éxito de títulos contemporáneos\n\nLo mejor: Identidad, personalización y atmósfera\n\nEl paraíso del tuning: Ningún juego de su época (e incluso pocos actuales) alcanzó su nivel de personalización. Permitía modificar desde el motor y la suspensión hasta elementos visuales extremos como neones, puertas de tijera, sistemas de sonido en el maletero e hidráulicos\n\nBayview y su atmósfera nocturna: La ciudad ficticia de Bayview, dividida en 5 distritos interconectados (como el centro urbano o Coal Harbor), ofrecía un mapa nocturno repleto de luces y reflejos espectaculares para el año 2004\n\nUna banda sonora legendaria: La música es parte de la identidad mística del juego. La inclusión de la mítica versión de Riders on the Storm por Snoop Dogg y The Doors, junto a temas de rock, metal y electrónica, creaba una ambientación inmersiva perfecta para las carreras nocturnas\n\nFísica y variedad de juego: El control de los vehículos se siente satisfactorio, equilibrando el arcade con el peso del coche. Introdujo modalidades muy recordadas como las carreras de URL (Underground Racing League), Outrun (persecuciones directas en mundo abierto) y mejoras en el Drift y Drag\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "http://205.209.102.107/Luis/UNDERG2.zip",
+      "instalacion": "forwarders/ports_juegos/NFS_Underground_2/NFS_Underground_2.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/nfsu2x/nfsu2x.nro",
+      "filesize": 2063809,
+      "extracted": 2768927,
+      "updated": "24/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
