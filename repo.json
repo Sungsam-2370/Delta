@@ -3397,6 +3397,24 @@
       "screens": 5
     },
     {
+      "name": "THEGAME",
+      "title": "The Simpsons Game",
+      "author": "R-drg",
+      "version": "1.0.0",
+      "description": "Port Xbox360",
+      "details": "Requiere Overlock para alcanzar 30 FPS\n\nThe Simpsons Game es una de las obras más ingeniosas basadas en la familia amarilla, destacando principalmente como una brillante e implacable sátira hacia la propia industria de los videojuegos. Aunque no alcanza la perfección técnica de clásicos de mundo abierto como Hit & Run, se consolida como una de las mejores y más puras experiencias interactivas para los fanáticos de la serie\n\nLo Bueno\n\nUna historia e identidad brillantes: La trama rompe la cuarta pared de forma genial. Bart encuentra el manual del propio videojuego de Los Simpson, lo que otorga superpoderes a la familia. A partir de ahí, el juego se burla sin piedad de los clichés del medio (muros invisibles, dobles saltos, barriles explosivos) mediante el Hombre de las Historietas\n\nParodias masivas: Los niveles son homenajes directos con un humor ácido, parodiando sin piedad a franquicias legendarias como Grand Theft Auto (Grand Theft Scratchy), Shadow of the Colossus, Pokémon, Mario Bros, y Sonic\n\nApartado artístico sobresaliente: El uso de la técnica Cel-Shading recrea a los personajes de forma espectacular. Además, incluye más de una hora de escenas cinematográficas con la misma calidad de animación de la serie de televisión\n\nFidelidad y voces originales: El juego contó con el reparto entero de actores de voz originales (tanto en inglés como en sus respectivos doblajes regionales), haciendo que se sienta genuinamente como un episodio interactivo\n\nThe Simpsons Game no pretendía revolucionar el género de las plataformas ni el combate técnico. Su genialidad radica en su guion, su sátira mordaz a la industria y el amor incondicional a la esencia de la serie\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "http://205.209.102.107/Luis/THEGAME.zip",
+      "instalacion": "forwarders/ports_juegos/Simpsons_Game/Simpsons_Game.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/the_simpsons_game/the_simpsons_game.nro",
+      "filesize": 4457459,
+      "extracted": 4455937,
+      "updated": "25/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
