@@ -3470,6 +3470,24 @@
       "screens": 5
     },
     {
+      "name": "BIRDSSTAR",
+      "title": "Angry Birds Star Wars 2",
+      "author": "N/A",
+      "version": "1.0.0",
+      "description": "Port Android",
+      "details": "Angry Birds Star Wars II es un juego que adapta los episodios I, II y III de Star Wars, esta entrega destaca por ofrecer mucho contenido y una gran adaptación de los personajes\n\nLo mejor: Únete al Lado Marrano (Join the Pork Side)\n\nLa gran revolución de este juego fue la posibilidad de jugar desde la perspectiva de los cerdos por primera vez en la saga. El título divide sus niveles en el lado de los pájaros (el lado luminoso) y el de los cerdos (el lado oscuro), ofreciendo mecánicas totalmente opuestas y una frescura jugable inmensa\n\nVariedad de personajes: Cuenta con más de 30 personajes jugables magistralmente adaptados al ecosistema de Star Wars. Desde Yoda rebotando en las paredes o Mace Windu lanzando su sable, hasta Darth Maul con su doble sable láser y Boba Fett disparando misiles teledirigidos\n\nDiseño de niveles: Los escenarios capturan a la perfección la esencia de planetas icónicos como Naboo o Tatooine. Además, combina de forma orgánica las físicas tradicionales terrestres con las mecánicas gravitacionales espaciales heredadas de Angry Birds Space.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Epsilon/releases/download/Base/BIRDSSTAR.zip",
+      "instalacion": "forwarders/ports_juegos/AngryBirds_StarWars2/AngryBirds_StarWars2.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/abstarwars2/abstarwars2_nx.nro",
+      "filesize": 86534,
+      "extracted": 107,555,
+      "updated": "25/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
