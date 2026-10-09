@@ -3596,6 +3596,24 @@
       "screens": 5
     },
     {
+      "name": "SZOMBIES",
+      "title": "Stupid Zombies",
+      "author": "Manel S - Terremotixx",
+      "version": "3.4.5",
+      "description": "Port Android",
+      "details": "Stupid Zombies 1 es un juego casual de puzles y disparos en 2D. Inspirado fuertemente en mecánicas de rebote físicas y dinámicas similares a las de Angry Birds, ofrece una jugabilidad directa y adictiva\n\nMecánica de Juego:\n\nControlas a un héroe estático armado con munición limitada. El objetivo es eliminar a todos los zombis inmóviles del escenario calculando trayectorias angulares para que las balas reboten en las paredes y activen trampas u objetos\n\nContenido y Variedad:\n\nCuenta con cientos de niveles. Introduce variantes de armas como granadas, disparos divididos y láseres a medida que se progresa\n\nApartado Visual y Sonoro:\n\nGráficos limpios, de estética simple y caricaturesca tipo cómic, acompañados de música ambiental ominosa combinada con gemidos de los no-muertos\n\nDiseño de Puzles\n\nSólido y desafiante en niveles avanzados. Exige una buena dosis de estrategia y precisión para lograr la máxima calificación de tres estrellas usando la menor cantidad de disparos posibles\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Epsilon/releases/download/Base/SZOMBIES.zip",
+      "instalacion": "forwarders/ports_juegos/Stupid_Zombies/Stupid_Zombies.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/stupidzombies/stupidzombies_nx.nro",
+      "filesize": 46446,
+      "extracted": 104353,
+      "updated": "29/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
