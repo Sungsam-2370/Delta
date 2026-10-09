@@ -3614,6 +3614,24 @@
       "screens": 5
     },
     {
+      "name": "BBLOCK",
+      "title": "BattleBlock Theater",
+      "author": "Dashx - Andres Arevalo",
+      "version": "0.2.0",
+      "description": "Port Xbox",
+      "details": "BattleBlock Theater es una auténtica obra maestra de las plataformas y el humor absurdo, consolidado como uno de los títulos cooperativos más adictivos de la familia de consolas Xbox. Desarrollado por The Behemoth (los creadores de Castle Crashers y Alien Hominid), el juego ofrece una experiencia frenética que brilla por su jugabilidad impecable, un diseño de niveles retorcido y una narrativa hilarante dominada por un narrador sin igual\n\nUna historia descabellada: Tras encallar en una misteriosa isla gobernada por gatos mutantes gigantes, tu mejor amigo, Hatty Hattington, es poseído por un sombrero malvado. Para salvarlo a él y al resto de la tripulación, eres obligado a participar en obras de teatro mortales que sirven de entretenimiento para los felinos\n\nLo Mejor\n\nHumor y Narración: El narrador en off (Will Stamper) hace comentarios ácidos e irónicos que vuelven inolvidable cada partida.\n\nDiseño Cooperativo: El juego se adapta de forma brillante si juegas con amigos, alterando puzles y requiriendo verdadera coordinación\n\nContenido y Coleccionables: Cientos de cabezas personalizables para tu prisionero usando diamantes y ovillos de lana.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "http://205.209.102.107/Luis/BBLOCK.zip",
+      "instalacion": "forwarders/ports_juegos/BattleBlock_Theater/BattleBlock_Theater.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/battleblock_theater/battleblock_theater.nro",
+      "filesize": 1205975,
+      "extracted": 1276776,
+      "updated": "29/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
