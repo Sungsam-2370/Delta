@@ -3560,6 +3560,24 @@
       "screens": 5
     },
     {
+      "name": "CARBON",
+      "title": "NfS Carbon",
+      "author": "antoxa2584x",
+      "version": "0.2.0",
+      "description": "Port Xbox",
+      "details": "Need for Speed: Carbono es uno de los títulos más memorables y divisivos de la era dorada de Black Box. Lanzado como la secuela directa del legendario Need for Speed: Most Wanted, el juego traslada la acción de las persecuciones diurnas a la atmósfera nocturna y clandestina de Palmont City, combinando la cultura del tuning de la saga Underground con nuevas mecánicas de territorio y duelos al límite\n\nEl juego destaca por segmentar su catálogo de vehículos en tres categorías distintas (Exóticos, Tuners y Muscle), cada una con físicas de conducción marcadamente diferenciadas\n\nLos Duelos del Cañón: El añadido más icónico del juego. Reemplaza las batallas finales tradicionales por eventos en dos fases bajando acantilados peligrosos. La tensión es máxima: debes acumular puntos persiguiendo de cerca al rival sin caerte por el barranco ni estrellarte.\n\nSistema de Bandas: Por primera vez puedes reclutar aliados para las carreras de la campaña principal. Se dividen en roles tácticos: Bloqueadores (embisten rivales), Exploradores (encuentran atajos) y Lanzadores (te otorgan rebufo para ganar velocidad punta).\n\nPersonalización (Autosculpt): Una revolución técnica para 2006. Permite moldear piezas como parachoques, alerones o llantas mediante barras deslizantes, alterando su tamaño y geometría en lugar de usar solo piezas prefabricadas\n\nProgreso por Territorios: El mapa de Palmont City está dividido en distritos controlados por bandas rivales. Conquistar zonas desbloquea nuevas piezas y coches, obligando a cambiar de nivel para avanzar en el tramo final\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "http://205.209.102.107/Luis/CARBON.zip",
+      "instalacion": "forwarders/ports_juegos/Need_For_Speed_Carbon/Need_For_Speed_Carbon.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/nfscx/nfscx.nro",
+      "filesize": 1822687,
+      "extracted": 2606549,
+      "updated": "29/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
