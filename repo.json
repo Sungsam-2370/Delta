@@ -3578,6 +3578,24 @@
       "screens": 5
     },
     {
+      "name": "DKONG",
+      "title": "Donkey Kong 64 ReKONGpiled",
+      "author": "Trinalord777",
+      "version": "1.0.3",
+      "description": "Port PC-N64",
+      "details": "Donkey Kong 64: ReKONGpiled es una de las mayores sorpresas del año para la comunidad del modding y la preservación de videojuegos. No se trata de una emulación tradicional pesada ni de un remake estético, sino de una recompilación estática nativa\n\nEl lanzamiento de Donkey Kong 64: ReKONGpiled representa la evolución definitiva para uno de los collectathons más divisivos de Rare\n\n¿Qué hace a ReKONGpiled la versión definitiva?\n\nEl juego original de 1999 sufría de severas caídas de framerate que hacían la jugabilidad pesada. Esta versión elimina por completo esas barreras técnicas y, además, arregla los problemas de ritmo que lastraron al clásico de Rare de ser un juego perfecto\n\nPrincipales mejoras y características\n\nRendimiento fluido: Funciona a tasas de cuadros por segundo (fps) altas y desbloqueadas (60 fps) sin acelerar la velocidad lógica del juego\n\nPantalla panorámica: Soporte completo para 16:9 y monitores ultrawide, extendiendo adecuadamente la interfaz (HUD)\n\nControles modernos: Permite usar controles actuales e integra una cámara analógica mejorada con el joystick derecho\n\nCalidad de vida (QoL): Tiempos de carga casi instantáneos, mayor distancia de dibujado, soporte opcional para giroscopio y priximamente compatibilidad con mods como tag anywhere (para cambiar de Kong en cualquier momento y agilizar el ritmo)\n\nCorrecciones de Errores Históricos: Se han parcheado bugs nativos que tenían décadas de existencia, como el error que impedía recolectar las medallas de Hideout Helm si salías del nivel sin tomarlas\n\nDonkey Kong 64: ReKONGpiled es una obra maestra de la preservación y el modding técnico. Al jugarlo de forma nativa a más de 60 FPS, con nula latencia y proximamente la posibilidad de cambiar de personaje al instante, se mitigan casi todos los defectos de diseño que envejecieron mal en 1999\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "http://205.209.102.107/Luis/DKONG.zip",
+      "instalacion": "forwarders/ports_juegos/DK64_Recomp/DK64_Recomp.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/dk64recomp/dk64recomp.nro",
+      "filesize": 33807,
+      "extracted": 47839,
+      "updated": "29/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
