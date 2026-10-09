@@ -3200,7 +3200,7 @@
       "name": "ASPHA8V",
       "title": "Asphalt 8: Airborne",
       "author": "ItsDroidy06 - Kevin-J2006",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "description": "Port Android",
       "details": "Asphalt 8: Airborne es uno de los mejores videojuegos de carreras arcade de la historia de los dispositivos móviles, destacando por su espectacularidad visual y ritmo frenético, aunque su sistema económico actual empaña severamente la experiencia de juego\n\nJugabilidad inigualable: Giros de tonel, saltos en helicóptero y acrobacias que desafían la gravedad\n\nContenido descomunal: Más de 300 vehículos reales licenciados y 75 circuitos en localizaciones del mundo real\n\nExcelente control táctil: La conducción fluida se complementa de maravilla con soporte para mandos físicos\n\nugabilidad y Apartado Técnico\n\nEl pilar de Asphalt 8: Airborne es la pura sensación de velocidad e impulso. Las rampas distribuidas en pistas icónicas como Tokio, París, Londres y Barcelona obligan al jugador a tomar riesgos constantes en el aire para llenar la barra de nitro. El apartado visual ha envejecido con dignidad, manteniendo dinámicas físicas divertidas y espectaculares efectos ambientales, aunque los choques se sienten algo acartonados debido a la ausencia de daños estéticos reales en los coches de marcas de lujo\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
       "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
@@ -3211,7 +3211,7 @@
       "binary": "/switch/AirborneNX/AirborneNX.nro",
       "filesize": 1876798,
       "extracted": 2177765,
-      "updated": "22/07/2026",
+      "updated": "29/07/2026",
       "screens": 5
     },
     {
