@@ -3669,24 +3669,6 @@
       "screens": 5
     },
     {
-      "name": "MMXR",
-      "title": "Mega Man X SNES Recomp",
-      "author": "Thorhax",
-      "version": "1.0.2",
-      "description": "Port PC-SNES",
-      "details": "Mega Man X SNES Recomp representa una de las mayores revoluciones técnicas para la preservación del clásico de Super Nintendo\n\nEste proyecto no es una emulación tradicional, sino una recompilación estática de la CPU original del SNES convertida a código C. Esto permite que el juego corra de forma nativa con un rendimiento perfecto y consumiendo una fracción minúscula de los recursos de hardware que requeriría un emulador convencional.\n\nLa mejora más inmediata que notarás al jugar es la eliminación total de las ralentizaciones y una latencia de control que roza el cero absoluto. Secciones del juego clásico que sufrían caídas drásticas de frames por acumulación de enemigos o al usar armas masivas como el Storm Tornado ahora se ejecutan de manera completamente fluida a 60 FPS estables. Además, el proyecto introduce un soporte nativo e impecable para pantallas panorámicas, lo que expande el campo de visión del escenario en lugar de simplemente estirar la imagen original.\n\nMás allá de las mejoras técnicas de rendimiento, este port eleva el gameplay a niveles que habrían sido imposibles en la consola original de 16 bits. El juego ahora cuenta con un modo cooperativo completo que admite partidas locales y juego en línea con sistema de red Rollback para evitar el lag. Asimismo, se añade la posibilidad de jugar con Zero implementando sus mecánicas de ataque con sable en el aire, e incluso se integra de forma directa un arsenal masivo con 16 armas adicionales extraídas de Mega Man X2 y X3. Todo esto se gestiona desde un launcher moderno y personalizable con estética retro.\n\nEsta es la versión definitiva y más fluida de Mega Man X, superando por mucho a los relanzamientos oficiales de Capcom\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
-      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
-      "zip_url": "https://github.com/Sungsam-2370/Epsilon/releases/download/Base/MMXR.zip",
-      "instalacion": "forwarders/ports_juegos/MegamanX_Recomp/MegamanX_Recomp.nsp",
-      "license": "Ingles",
-      "category": "Ports",
-      "binary": "/switch/MegaManX/MegaManX.nro",
-      "filesize": 12296,
-      "extracted": 32049,
-      "updated": "31/07/2026",
-      "screens": 5
-    },
-    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
