@@ -3542,25 +3542,6 @@
       "screens": 5
     },
     {
-      "name": "ALOCE",
-      "title": "Halo Combat Evolved Español",
-      "author": "thelinkin3000",
-      "version": "1.0.2.1",
-      "description": "Port Xbox",
-      "details": "Nueva version en Español - Botones A y B, X y Y invertidos\n\nHalo Combat Evolved para la Xbox original es considerado de forma unánime como una obra maestra y el juego que redefinió los shooters en primera persona (FPS) en consola.\n\nLo Excelente\n\nControles Perfectos y Aim Assist: Antes de Halo, los FPS en consola eran toscos. Bungie diseñó un esquema intuitivo utilizando los dos sticks analógicos de manera magistral e implementó un sistema de asistencia de apuntado (Aim Assist) que se sintió natural y preciso\n\nEl Bucle de Combate de 30 segundos: La genialidad de su jugabilidad radica en combinar tres elementos de forma fluida: armas, granadas (fisión y plasma) y golpes cuerpo a cuerpo\n\nEscudo de Energía Recargable: En lugar de buscar botiquines constantemente, el escudo del Jefe Maestro obligaba al jugador a usar coberturas de forma táctica, cambiando el ritmo de los combates para siempre\n\nLímite de Dos Armas: Te obligaba a tomar decisiones estratégicas constantemente, eligiendo si combinar una pistola humana con un rifle de plasma alienígena\n\nInteligencia Artificial Revolucionaria: Los enemigos (como los Elites y los Grunts) flanqueaban, buscaban cobertura y reaccionaban al pánico si eliminabas a su líder\n\nBanda Sonora y Ambientación: La música compuesta por Martin O'Donnell y Michael Salvatori es icónica. Los coros gregorianos y los ritmos orquestales crearon una atmósfera mítica y épica inigualable\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
-      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
-      "zip_url": "http://205.209.102.107/Luis/ALOCE_1.zip",
-      "zip_url_2": "http://205.209.102.107/Luis/ALOCE_2.zip",
-      "instalacion": "forwarders/ports_juegos/Halo_CE/Halo_CE.nsp",
-      "license": "Español",
-      "category": "Ports",
-      "binary": "/switch/haloce-nx/halo.nro",
-      "filesize": 6560341,
-      "extracted": 6769707,
-      "updated": "30/07/2026",
-      "screens": 5
-    },
-    {
       "name": "CARBON",
       "title": "NfS Carbon",
       "author": "antoxa2584x",
