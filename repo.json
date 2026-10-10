@@ -3651,6 +3651,24 @@
       "screens": 5
     },
     {
+      "name": "SIHILL3",
+      "title": "Silent Hill 3",
+      "author": "Cutarev",
+      "version": "0.1.0",
+      "description": "Port PC - PS2",
+      "details": "Silent Hill 3 se mantiene como una de las experiencias más aterradoras y visualmente impresionantes del survival horror. Aunque inicialmente se consideró un simple port directo, el paso del tiempo y la comunidad han transformado esta versión en una de las mejores formas de disfrutar del juego hoy en día\n\nAtmósfera y Gráficos Atemporales: Las expresiones faciales de Heather Mason y el perturbador diseño de los escenarios (paredes que sangran y texturas oxidadas) siguen luciendo espectaculares incluso sin parches gráficos pesados\n\nProtagonista Emblemática: Heather reacciona con un realismo y sarcasmo muy humanos, alejándose de los tropos habituales del género\n\nBanda Sonora Magistral: El trabajo de Akira Yamaoka mezcla de forma perfecta melodías melancólicas con ruidos industriales ensordecedores que inducen pura paranoia\n\nDificultad Personalizable: Permite separar el nivel de los acertijos (modo Enigma) del nivel del combate\n\nRendimiento Nativo: Soporta 60 FPS de forma nativa (a diferencia de los 30 FPS en PS2)\n\nGuardado: Permite guardar la partida en cualquier momento desde el menú.\n\nSoporte de Pantalla: Soporta formato widescreen y pantallas de alta resolucion\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "http://205.209.102.107/Luis/SIHILL3.zip",
+      "instalacion": "forwarders/ports_juegos/Silent_Hill_3/Silent_Hill_3.nsp",
+      "license": "Español Subtitulos - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/sh3-nx/sh3-nx.nro",
+      "filesize": 2859199,
+      "extracted": 5243136,
+      "updated": "30/07/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
