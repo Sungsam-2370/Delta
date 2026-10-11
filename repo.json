@@ -3705,6 +3705,24 @@
       "screens": 5
     },
     {
+      "name": "ORACAGE",
+      "title": "TLoZ Oracles Decomp",
+      "author": "Toniisound",
+      "version": "1.0.0",
+      "description": "Port PC-GBC",
+      "details": "Controles: L intercambia items entre A y B, ZR manteniendolo para avanzar mas rapido, R Menu de Pausa\n\nLa descompilación y port nativo de The Legend of Zelda: Oracle of Ages y Oracle of Seasons representa la forma definitiva, más fluida y sofisticada de experimentar estos dos clásicos de Game Boy Color en hardware moderno\n\nEl resultado es un lavado de cara técnico que respeta el pixel art original mientras elimina todas las frustraciones de la consola de 2001.\n\nEl verdadero triunfo de esta versión radica en sus mejoras de calidad de vida. La integración de pantalla panorámica nativa amplía el campo de visión sin deformar los sprites, lo que hace que los mundos se sientan más vivos y contemporáneos. Además, el port unifica ambos títulos bajo una sola aplicación\n\n Los desarrolladores también solucionaron el mayor defecto de los juegos originales: la constante pausa para cambiar de ítems debida a la falta de botones de la Game Boy Color. Ahora, gracias a las ranuras de inventario rápido y a la aceleración del texto, la jugabilidad es dinámica y no interrumpe el ritmo de la aventura\n\nA nivel de contenido, es importante recordar que Capcom diseñó estos juegos no como versiones espejo (al estilo Pokémon), sino como dos caras de una misma moneda. Oracle of Seasons se ambienta en la región de Holodrum y se enfoca por completo en la acción, el combate y la exploración física, utilizando el Cetro de las Estaciones para alterar el terreno. Por el contrario, Oracle of Ages transcurre en Labrynna y es un deleite para los amantes de los acertijos complejos y las mazmorras exigentes, utilizando el Arpa de los Tiempos para viajar entre el pasado y el presente\n\nEl alma de la duología se encuentra en su sistema de juego vinculado por contraseñas. Al terminar uno de los títulos y transferir tus datos al otro, el segundo juego se transforma: los personajes te reconocen, desbloqueas misiones secundarias exclusivas, transportas anillos coleccionables con habilidades especiales y accedes al verdadero jefe final que une ambas tramas. El Zelda Oracles Decomp no solo preserva esta joya histórica, sino que la eleva, convirtiendo dos de las aventuras portátiles más ricas de Nintendo en un juego imprescindible y sumamente cómodo para los estándares de hoy en día\n\nOracle of Seasons (enfocado en acción) o Oracle of Ages (enfocado en puzles)\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Epsilon/releases/download/Base/ORACAGE.zip",
+      "instalacion": "forwarders/ports_juegos/Zelda_Oracles/Zelda_Oracles.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/oracles/oracles.nro",
+      "filesize": 10422,
+      "extracted": 27328,
+      "updated": "01/08/2026",
+      "screens": 3
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
