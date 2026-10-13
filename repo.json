@@ -3760,6 +3760,24 @@
       "screens": 5
     },
     {
+      "name": "GVICI",
+      "title": "GTA: Vice City Stories",
+      "author": "Fsalamancar",
+      "version": "0.1.1",
+      "description": "Port PSP",
+      "details": "Grand Theft Auto: Vice City Stories para PSP es considerado una de las mayores joyas técnicas y mecánicas de la consola portátil, superando en muchos aspectos a su predecesor Liberty City Stories y expandiendo la mítica fórmula ochentera de la saga\n\nEl juego funciona como una precuela directa de GTA: Vice City ambientada en 1984, poniéndonos en la piel de Víctor Vic Vance, un militar que termina construyendo un imperio criminal por pura necesidad familiar.\n\nGráficos y Rendimiento: El juego supuso un logro sorprendente para el hardware de la PSP. Se mejoró notablemente la tasa de cuadros por segundo y se redujo el molesto pop-in (la aparición repentina de texturas) en comparación con el juego anterior. La paleta de colores neón y pastel exprime al máximo la pantalla de la consola\n\nJugabilidad e Innovaciones: Por primera vez en las entregas portátiles, se incluyó la capacidad de nadar (limitada por una barra de resistencia). El combate cuerpo a cuerpo se renovó con mecánicas de agarres y lanzamientos, y el garaje de vehículos se expandió con helicópteros, motos acuáticas y bicicletas\n\nSistema de Imperio: Esta fue la gran adición del juego. Reemplazó la compra pasiva de propiedades por un sistema dinámico donde el jugador debe extorsionar, robar y defender activamente más de 30 negocios ilegales (como protección, contrabando o usura) frente a los ataques de bandas rivales\n\nHistoria y Narrativa: Vic Vance ofrece un enfoque más humano y maduro al ser un protagonista motivado por la salud de su hermano y el bienestar de su familia en lugar de la simple avaricia. Los personajes secundarios, incluyendo a Ricardo Díaz o al mismísimo Phil Collins interpretándose a sí mismo, son memorables\n\nBanda Sonora: Manteniendo el altísimo listón de la saga, las estaciones de radio ochenteras (como Flash FM o V-Rock) incluyen licencias de bandas masivas y anuncios satíricos excelentes que componen la mitad de la experiencia inmersiva del juego\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/GVICI.zip",
+      "instalacion": "forwarders/ports_juegos/GTA_ViceCity/GTA_ViceCity.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/vcsnx/vcsnx.nro",
+      "filesize": 942065,
+      "extracted": 1395382,
+      "updated": "04/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
