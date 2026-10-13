@@ -3778,24 +3778,6 @@
       "screens": 5
     },
     {
-      "name": "PEMEHD",
-      "title": "Pokemon Esmeralda 2D HD",
-      "author": "Bruno Castro - Trindade",
-      "version": "1.0.0",
-      "description": "Port PC",
-      "details": "Pokémon Gamma Emerald es un espectacular fan game que reimagina el clásico Pokémon Esmeralda en estilo HD-2D. Desarrollado por UndreamedPanic utilizando Unreal Engine 5, el proyecto se lanzó en estado de Early Access (acceso anticipado) el 16 de agosto de 2026, convirtiéndose rápidamente en un fenómeno viral en la comunidad por su altísima fidelidad visual y mecánica\n\nEl juego vale totalmente la pena si eres fanático de la tercera generación o disfrutas de estéticas modernas combinadas con pixel art al estilo de Octopath Traveler. No se trata de un simple mod gráfico, sino de una reconstrucción total que respeta la nostalgia pero se siente moderna. Al estar en fase de acceso anticipado, actualmente el contenido llega hasta Ciudad Malvalona (Mauville), permitiendo conseguir las primeras 3 medallas de gimnasio\n\nLa dirección de arte es el punto más fuerte del juego. Logra una mezcla perfecta de sprites en 2D con entornos tridimensionales, iluminación dinámica y sombras en tiempo real. Cuenta con un ciclo dinámico de día y noche, además de efectos climáticos avanzados. Detalles como las partículas de polvo flotando bajo los rayos de luz, las hojas mecidas por el viento y los reflejos realistas en el agua elevan los mapas clásicos de Hoenn a un estándar visual profesional.\n\nEl sistema clásico por turnos ha sido reconstruido con una interfaz mucho más limpia y ágil. Incorpora reglas modernas de las últimas generaciones y tablas de tipos actualizadas. En cuanto a calidad de vida (QoL), las mejoras son sobresalientes: los Pokémon te siguen en el mapa y el uso de movimientos ocultos (MO) como Corte o Vuelo es automático, por lo que ya no es obligatorio sacrificar un espacio en los ataques de tu equipo para avanzar en la historia\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
-      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
-      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/PEMEHD.zip",
-      "instalacion": "forwarders/ports_juegos/Pokemon_Esmeralda_2DHD/Pokemon_Esmeralda_2DHD.nsp",
-      "license": "Ingles",
-      "category": "Ports",
-      "binary": "/switch/pokeemerald/pokeemerald.nro",
-      "filesize": 23281,
-      "extracted": 43861,
-      "updated": "04/08/2026",
-      "screens": 5
-    },
-    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
