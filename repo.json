@@ -610,6 +610,23 @@
       "screens": 5
     },
     {
+      "name": "DUST2",
+      "title": "Traduccion Heaven Dust 2",
+      "author": "Switch Scene - Luigi",
+      "version": "1.0.0",
+      "description": "Traduccion Español",
+      "details": "Grupo Switch Scene les trae la traduccion del juego Heaven Dust 2, basados en la traduccion de PC realizada por Jugador 44  y adaptandola a la consola switch para todos ustedes\n\nHeaven Dust 2 es una carta de amor directa a los primeros juegos de Resident Evil, consolidándose como un sobresaliente survival horror de la vieja escuela con perspectiva isométrica\n\nEl juego logra capturar a la perfección la esencia de la época de los 32 bits, adaptándola con controles modernos, un apartado visual estilizado y puzles muy bien diseñados\n\nLa jugabilidad combina un combate táctico donde cada bala cuenta con una gestión estricta de inventario. A diferencia de los clásicos de los noventa, elimina los frustrantes controles tipo tanque en favor de un movimiento libre mucho más fluido. Además, incluye mecánicas para mejorar armas y fabricar munición. Su principal contra en este apartado es que la perspectiva aérea cenital a veces bloquea la visión de los enemigos detrás de los muros, provocando ataques sorpresa que pueden sentirse injustos.\n\nEl mapa está diseñado como un intrincado laberinto dentro de unas instalaciones científicas, lo que premia la exploración y un constante backtracking para abrir nuevos caminos. Los acertijos están muy bien integrados y recuerdan a los mejores momentos del género. Sin embargo, para los jugadores menos pacientes, las constantes idas y venidas pueden llegar a sentirse un poco confusas o monótonas en momentos de máxima exploración\n\nA pesar de utilizar un diseño de personajes de estilo chibi o caricaturesco que podría restarle seriedad, el juego logra generar una tensión y suspenso genuinos gracias a un brillante sistema de iluminación dinámica y a un diseño de sonido opresivo. El contraste entre los gráficos amigables y la violencia gore explícita es un sello de identidad, aunque puede no convencer a los puristas que buscan una estética hiperrealista\n\nLas referencias a la saga de Capcom son constantes y nostálgicas. Encontrarás salas de guardado con música relajante, grabadoras de cinta que actúan como máquinas de escribir, baúles interconectados para almacenar objetos y el clásico sistema de combinación de hierbas curativas. La trama, por su parte, es sumamente predecible (una típica historia de serie B con virus y corporaciones farmacéuticas), sirviendo meramente como una excusa para avanzar\n\n\nDESCARGA:\nEsta traducción se descargará directo a tu carpeta contents, no necesitas hacer nada mas\n\nINSTALACIÓN:\nDebes tener el juego Heaven Dust 2 instalado, la traducción se aplicara automáticamente al descargar, solo abre el juego y prueba\n\nNOTA:\nSi por alguna razón quieres eliminar la traducción, puedes usar el boton BORRAR de este programa y automáticamente se eliminara, o puedes borrar manualmente entrando a tu carpeta contents y borra las carpetas 010091E01444E000",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Epsilon/releases/download/Base/DUST2.zip",
+      "license": "Español",
+      "category": "Traducciones",
+      "binary": "none",
+      "filesize": 16801,
+      "extracted": 45987,
+      "updated": "05/08/2026",
+      "screens": 5
+    },
+    {
       "name": "MGBA",
       "title": "mGBA",
       "author": "Jeffrey Pfau",
