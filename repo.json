@@ -593,6 +593,23 @@
       "screens": 5
     },
     {
+      "name": "APOLLOJU",
+      "title": "Traduccion Apollo Justice",
+      "author": "TeruyaKvK - Alejandro Gutierrez",
+      "version": "1.0.0",
+      "description": "Traduccion Español",
+      "details": "Traduccion del juego Apollo Justice: Ace Attorney Trilogy, desarrollado por TeruyaKvK y adaptado a switch por Alejandro Gutierrez\n\nLa version de Dual Destinies esta traducida completamente, mientras que Apollo Justice y Spirit of Justice solo cuentan con el primer capitulo en español, conforme se vayan actualizando otros capitulos se iran agregando sus traducciones\n\nDe momento solo los textos cuentan con traduccion texturas como mapas y globos de texto continuan en ingles, esto se adaptara en futuraas actualizaciones\n\nApollo Justice: Ace Attorney Trilogy es una recopilación sobresaliente que reúne la segunda etapa de la aclamada franquicia de drama judicial de Capcom. El paquete recopila las entregas cuarta, quinta y sexta de la saga principal, ofreciendo una evolución visual drástica y una cantidad masiva de contenido adicional\n\nRemasterización Visual Impecable: Los desarrolladores pulieron a fondo el arte en 2D dibujado a mano del primer juego y suavizaron los polígonos de las entregas en 3D originarias de la Nintendo 3DS. Las escenas cinemáticas de anime se ven espectaculares en alta definición\n\nModo Historia ("Story Mode"): Ideal para quienes solo quieren disfrutar de la trama. Esta función opcional avanza los diálogos, investiga escenas y selecciona las respuestas correctas de forma automática en los juicios\n\nUn Museo de Extras Enorme: Incluye acceso completo a una librería con más de 170 pistas musicales, galerías de arte conceptual, trajes alternativos desbloqueados desde el inicio y un estudio de animación para interactuar con los personajes en versión Chibi o modelados estándar\n\nFlexibilidad de Capítulos: A diferencia de las versiones originales, esta colección te permite elegir y jugar cualquier caso o capítulo individual de los tres juegos sin necesidad de haber completado los anteriores\n\n\nDESCARGA:\nEsta traducción se descargará directo a tu carpeta contents, no necesitas hacer nada mas\n\nINSTALACIÓN:\nDebes tener el juego Fatal Frame: Mask of the Lunar Eclipse instalado, la traducción se aplicara automáticamente al descargar, solo abre el juego y prueba\n\nNOTA:\nSi por alguna razón quieres eliminar la traducción, puedes usar el boton BORRAR de este programa y automáticamente se eliminara, o puedes borrar manualmente entrando a tu carpeta contents y borra las carpetas 0100DAE019110000 y 010091B01A438000",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Epsilon/releases/download/Base/APOLLOJU.zip",
+      "license": "Español",
+      "category": "Traducciones",
+      "binary": "none",
+      "filesize": 16608,
+      "extracted": 14663,
+      "updated": "05/08/2026",
+      "screens": 5
+    },
+    {
       "name": "MGBA",
       "title": "mGBA",
       "author": "Jeffrey Pfau",
