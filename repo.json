@@ -3831,6 +3831,24 @@
       "screens": 5
     },
     {
+      "name": "DB3",
+      "title": "DBZ Budokai Tenkaichi 3",
+      "author": "Unknownn",
+      "version": "0.1.0",
+      "description": "Port PC-PS2",
+      "details": "Dragon Ball Z: Budokai Tenkaichi 3 es considerado de forma unánime como uno de los mejores videojuegos de lucha basados en el anime de toda la historia\n\nEste título representa la cumbre definitiva de la simulación de batallas en entornos tridimensionales abiertos dentro de la franquicia\n\nLa joya de la corona de este título es su inigualable plantilla de personajes. Cuenta con 161 combatientes (incluyendo transformaciones) que abarcan Dragon Ball Clásico, Z, GT, las películas e incluso historias alternativas del tipo qué pasaría si. A esto se le suma una fidelidad absoluta al anime: los escenarios se destruyen de forma permanente, la ropa de los guerreros se desgarra con el daño y las transformaciones se realizan en tiempo real en medio de la batalla. Además, ofrece una variedad masiva de modalidades como Dragon History, Ultimate Battle, Mission 100 y Sim Dragon, asegurando cientos de horas de contenido\n\nVisualmente, el juego explotó al máximo el motor gráfico Cel-Shaded en la PlayStation 2. Aunque algunos analistas como Vandal señalaron en su día que ciertos escenarios se sentían un poco vacíos, la fluidez de las animaciones, la espectacularidad de los ataques especiales definitivos y los detallados modelados de los personajes compensaron por completo cualquier carencia técnica. Los efectos de sonido de las ráfagas de ki y los impactos recrean de manera fidedigna la atmósfera creada por Akira Toriyama\n\nDragon Ball Z: Budokai Tenkaichi 3 es una obra maestra eterna. Logró el equilibrio perfecto entre la accesibilidad para los fanáticos casuales y un techo de habilidad sumamente alto para el juego competitivo\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/DB3.zip",
+      "instalacion": "forwarders/ports_juegos/Budokai_Tenkaichi_3/Budokai_Tenkaichi_3.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/DBZ_BT3.nro",
+      "filesize": 1927892,
+      "extracted": 3026058,
+      "updated": "05/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
