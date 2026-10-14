@@ -3813,6 +3813,24 @@
       "screens": 5
     },
     {
+      "name": "ANIMALGC",
+      "title": "Animal Crossing Gamecube",
+      "author": "digdat0",
+      "version": "1.0.0",
+      "description": "Port PC-GC",
+      "details": "El port nativo no oficial de Animal Crossing de GameCube es una de las mayores sorpresas de la escena del romhacking y la descompilación, ofreciendo una experiencia de juego fluida y con soporte técnico moderno que supera las limitaciones de la emulación tradicional\n\n\nMenú de ajustes integrado: Al presionar el botón Menos (-) se accede a opciones heredadas del port de PC, incluyendo ajustes de audio, remapeo de controles y mejoras en la jugabilidad\n\nAjustes de vídeo avanzados: Permite activar o desactivar la pantalla panorámica (widescreen), bloquear el rendimiento a 30 FPS estables, alternar la resolución dinámica y activar el filtrado de texturas\n\nCaché de sombreadores (Shaders): Cuenta con caché activada. Esto provoca que únicamente el primer arranque sea lento (alrededor de un minuto), pero las ejecuciones posteriores son sumamente fluidas\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/ANIMALGC.zip",
+      "instalacion": "forwarders/ports_juegos/Animal_Crossing_GC/Animal_Crossing_GC.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/AnimalCrossing-gcNX/AnimalCrossing-gcNX.nro",
+      "filesize": 1455167,
+      "extracted": 1476060,
+      "updated": "05/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
