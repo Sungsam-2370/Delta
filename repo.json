@@ -3849,6 +3849,24 @@
       "screens": 5
     },
     {
+      "name": "RENDER",
+      "title": "SM64 Render96ex",
+      "author": "Render96 Team",
+      "version": "1.0.0",
+      "description": "Port PC - N64",
+      "details": "Super Mario 64: Render96 es considerado por la comunidad de modding como una de las mejores y más impresionantes formas de experimentar el legendario clásico de Nintendo 64\n\n Más que un simple paquete de texturas, es un ambicioso proyecto que busca reimaginar el juego original de 1996. Su objetivo principal es igualar el aspecto visual de los renders promocionales y comerciales que Nintendo utilizaba en las revistas y manuales de la época, dotándolo de un estilo tridimensional estilizado pero nostálgico\n\nEl apartado visual es la estrella absoluta del paquete. El mod reemplaza los polígonos toscos y las texturas pixeladas del Nintendo 64 por modelos en alta definición completamente redondeados y definidos. Los escenarios cobran vida gracias a un agua más realista, un pasto brillante y un cielo enriquecido\n\nEn cuanto al rendimiento, supera las limitaciones de la consola original al correr de forma nativa a 60 cuadros por segundo, ofreciendo una fluidez impecable sin depender de la emulación tradicional. La jugabilidad también recibe una mejora drástica en la calidad de vida: integra soporte nativo para mandos modernos e introduce una cámara libre controlada con el stick derecho, solventando por completo el punto más criticado del juego de 1996. El apartado auditivo y de interfaz se complementa con una remasterización total del HUD y los menús a alta resolución, además de un audio con mayor nitidez.\n\nLa mayor virtud de Render96 es su fidelidad artística nostálgica. Respeta la esencia original adaptándola a lo que los niños de los 90 imaginaban al ver el arte promocional en las revistas. A esto se le suman grandes añadidos como menús de trucos interactivos, traducción al español y una alta portabilidad, permitiendo jugarlo cómodamente\n\nPara cualquier entusiasta de las plataformas, Render96 es una obra de arte técnica indispensable. Consigue que un juego con tres décadas de antigüedad se sienta intuitivo y moderno para las nuevas generaciones, sin perder la magia que hizo histórico al cartucho original. Es la edición definitiva no-oficial para revivir la aventura de recolectar las 120 estrellas.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "http://205.209.102.107/Luis/RENDER.zip",
+      "instalacion": "forwarders/ports_juegos/SM64_Render96/SM64_Render96.nsp",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/render96ex/sm64.nro",
+      "filesize": 926251,
+      "extracted": 996558,
+      "updated": "06/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
