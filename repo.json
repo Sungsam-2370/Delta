@@ -3867,6 +3867,24 @@
       "screens": 5
     },
     {
+      "name": "SCRAFT",
+      "title": "StarCraft 64",
+      "author": "Gabryboy12",
+      "version": "0.1.0",
+      "description": "Port PC-N64",
+      "details": "StarCraft 64 es considerado uno de los ports más ambiciosos e impresionantes de la historia de los videojuegos, logrando meter el titánico juego de estrategia en tiempo real de PC y su expansión, Brood War, en un solo cartucho\n\nJugabilidad y Controles\n\nAdaptar un juego que requiere teclado y ratón al mando de tres puntas de la Nintendo 64 parecía una misión imposible. Los desarrolladores implementaron soluciones ingeniosas, como atajos para asignar automáticamente trabajadores a los minerales o la capacidad de seleccionar hasta 18 unidades a la vez\n\nAudio y Contenido\n\nA nivel sonoro, la legendaria banda sonora de los Terran, Zerg y Protoss está presente, pero recortada en bucles más cortos. La mayor pérdida es la ausencia de las actuaciones de voz en los intermedios de las misiones, lo que obliga al jugador a leer extensos bloques de texto para enterarse de la historia. Por el lado del contenido, el valor es masivo: incluye casi 60 misiones si cuentas con el Expansion Pak de 4MB, periférico que es obligatorio para poder acceder a la campaña de Brood War.\n\nContenido Exclusivo de Consola\n\nMisión Secreta Resurrection 4: Una misión cooperativa exclusiva dentro del canon oficial de la saga, enfocada en el rescate del infectado Alexei Stukov\n\nBúsqueda de Trucos: Los códigos tradicionales de PC no se teclean aquí; en su lugar, debes explorar los mapas de la campaña para encontrar balizas y discos ocultos que desbloquean los trucos en el menú\n\nModo Pantalla Dividida: Permite disputar partidas multijugador local frente a un amigo, ya sea en enfrentamiento directo o en cooperativo. El único problema es que el rival siempre puede ver tu base en su mitad de la pantalla\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Epsilon/releases/download/Base/SCRAFT.zip",
+      "instalacion": "forwarders/ports_juegos/StarCraft64/StarCraft64.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/StarCraft64/StarCraft64.nro",
+      "filesize": 29523,
+      "extracted": 39558,
+      "updated": "06/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
