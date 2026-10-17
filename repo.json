@@ -3884,6 +3884,24 @@
       "screens": 5
     },
     {
+      "name": "SONIAD2",
+      "title": "Sonic Adventure 2",
+      "author": "ChanseyIsTheBest",
+      "version": "1.0.2.1",
+      "description": "Port Xbox360",
+      "details": "Sonic Adventure 2 es considerado uno de los hitos más importantes de SEGA, un juego ambicioso que definió la era de transición al 3D del erizo y que introdujo al legendario Shadow the Hedgehog\n\nLa trama es uno de los puntos más Fuertes de esta entrega. El juego divide su campaña en dos bandos: la ruta Hero (Sonic, Tails y Knuckles) y la ruta Dark (Shadow, el Dr. Eggman y Rouge). Esta estructura no solo permite ver el conflicto desde perspectivas opuestas, sino que introduce un tono más maduro y de redención, explorando el misterioso pasado de Shadow y los secretos de la colonia espacial ARK. Las actuaciones de voz de la época y la dirección de las cinemáticas, aunque a veces sufren de problemas de sincronización de audio o tropiezos heredados de sus adaptaciones, logran transmitir un guion con mucha fuerza y carisma\n\nA diferencia de su predecesor, que diversificaba el desarrollo en múltiples personajes individuales, el equipo de Sonic Team redujo la jugabilidad a tres estilos centrales compartidos de manera simétrica por ambos bandos\n\nLa jugabilidad de velocidad y plataformas puras corre a cargo de Sonic y Shadow. Estas fases representan la verdadera esencia del juego, enfocadas en un ritmo frenético y lineal que refina la fórmula 3D moderna. Niveles icónicos como City Escape o Final Rush brillan gracias a la excelente adición de las mecánicas de deslizamiento sobre raíles (grinding). El control de la inercia para ejecutar saltos masivos y mantener la puntuación genera una sensación de fluidez insuperable cuando se dominan sus exigentes rangos\n\nLa acción de disparos en tercera persona la protagonizan Tails y el Dr. Eggman, quienes pilotean mechas fuertemente armados. Aunque estas secciones aportan variedad marcial y caos con su sistema de fijación de objetivos, rompen drásticamente con el ritmo veloz del juego\n\nLa búsqueda de tesoros queda en manos de Knuckles y Rouge, enfocada por completo en la exploración libre y vertical de escenarios abiertos para recolectar fragmentos de la Master Emerald o llaves\n\nVisualmente fue un portento en su día, mostrando escenarios coloridos y efectos ambientales avanzados para la generación de los 128 bits. La fluidez a 60 fps sigue siendo una de sus mayores virtudes, aunque la cámara automática a menudo juega malas pasadas y provoca caídas injustas al vacío en los segmentos más veloces\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "http://205.209.102.107/Luis/SONIAD2.zip",
+      "instalacion": "forwarders/ports_juegos/Sonic_Adventure_2/Sonic_Adventure_2.nsp",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/sa2-nx/sa2.nro",
+      "filesize": 2013781,
+      "extracted": 2602300,
+      "updated": "08/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
