@@ -3902,6 +3902,25 @@
       "screens": 5
     },
     {
+      "name": "AM2R155",
+      "title": "Another Metroid 2 Remake",
+      "author": "DoctorM64",
+      "version": "1.5.5",
+      "description": "Port PC",
+      "details": "IMPORTANTE: El menú de opciones de visualización tiene un bug y no permite abrirlo, no usen esa opción. Por lo demás, todo está funcionando: menú de controles, sonido y extras. El juego ya está configurado en sus opciones de visualización de manera manual para su comodidad.\n\nAM2R (Another Metroid 2 Remake) en su versión 1.5.5 es la consagración definitiva del legendario fangame desarrollado inicialmente por Milton Guasti. La versión 1.5.5, mantenida con maestría por el equipo de la comunidad, eleva esta experiencia a niveles de pulido técnico, fluidez y compatibilidad que rivalizan directamente con cualquier lanzamiento oficial en 2D de la franquicia\n\nA nivel técnico, esta actualización destaca por su asombrosa ligereza y optimización. Con un peso aproximado de solo 360 MB instalado, ofrece un rendimiento impecable de manera 100% offline, eliminando cualquier tirones de framerate en salas con exceso de partículas. Además, introduce soporte nativo para pantallas anchas 16:9 sin estirar la imagen original\n\nEl gameplay adopta y perfecciona la filosofía de diseño vista en Metroid: Zero Mission. Samus desciende a las profundidades del planeta SR388 con el objetivo explícito de exterminar a una cantidad fija de Metroides. El núcleo del juego son los combates contra las distintas fases evolutivas de estas criaturas (Alfa, Gamma, Zeta y Omega), cuyas inteligencias artificiales han sido pulidas en la v1.5.5 para ofrecer patrones de esquive dinámicos y ataques terrestres feroces.\n\nLos controles son exquisitos: incorporan físicas fluidas, apuntado diagonal asistido, el regreso opcional del moonwalk y un botón dedicado para la transformación instantánea en Morfosfera. A diferencia del título original de Game Boy de 1991, este remake expande la experiencia añadiendo mapas completamente nuevos, áreas de investigación científica adicionales que profundizan el lore y minijefes mecánicos memorables como The Tester\n\nAl compararlo con el juego comercial de Nintendo, Metroid: Samus Returns de 3DS, las diferencias de filosofía son evidentes. Mientras que el título oficial de Nintendo apuesta por gráficos poligonales en 2.5D y una jugabilidad pausada que depende obligatoriamente de la mecánica de contraataque (Melee Counter), AM2R se mantiene fiel al pixel art en 2D puro e hiperdetallado de la era de Game Boy Advance, priorizando la velocidad de plataformas y el disparo clásico continuo\n\n En cuanto a la atmósfera, AM2R se siente más inmersivo y opresivo gracias a remixes oscuros y ambientales inspirados en Metroid Prime. Además, para la exploración y el backtracking hacia el final de sus 5 a 7 horas de duración, AM2R implementa un sistema de portales entre zonas (Warp Rooms) muy superior a la división estricta por ascensores del juego oficial\n\nEn conclusión, AM2R 1.5.5 es una obra maestra del desarrollo comunitario que supera en ritmo y estética retro a la propuesta oficial de Nintendo. Es una pieza indispensable para cualquier seguidor de Samus Aran que busque la experiencia Metroidvania clásica en su máxima expresión de rendimiento moderno\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Gamma/releases/download/lanzamiento/AM2R155.zip",
+      "instalacion": "Descargas/Ports_Juegos/AM2R/AM2R.nsp",
+      "message": "IMPORTANTE: RECUPERA ESPACIO\n\nEl juego ya esta instalado, sin embargo el NSP esta ocupando 360 megas de espacio, si quieres recuperarlo ve a la carpeta en la raiz de tu SD Descargas/Ports_Juegos/AM2R y borrala para borrar el NSP descargado que te ocupa espacio",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "none",
+      "filesize": 377463,
+      "extracted": 377424,
+      "updated": "09/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
