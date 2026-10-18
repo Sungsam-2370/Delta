@@ -3921,6 +3921,24 @@
       "screens": 5
     },
     {
+      "name": "FEARHUN",
+      "title": "Fear and Hunger",
+      "author": "R4lix",
+      "version": "0.1.0",
+      "description": "Port PC",
+      "details": "Fear & Hunger es uno de los RPG de terror y supervivencia más despiadados, oscuros y brillantes de la escena indie\n\nEl título desafía de forma deliberada las convenciones de diseño tradicionales para sumergir al jugador en una experiencia sádica donde la muerte es el menor de los problemas. No se trata de un juego injusto por error; su hostilidad es una mecánica narrativa perfectamente calculada para evocar un auténtico sentimiento de desamparo, horror existencial y triunfo genuino cuando finalmente se logra avanzar\n\nA nivel de ambientación, el juego transporta a las profundidades de unas mazmorras medievales malditas. La premisa inicial es rescatar al Capitán Le'Garde, pero el descenso pronto se transforma en una espiral hacia el horror cósmico y deidades antiguas corruptas\n\nA nivel de ambientación, el juego transporta a las profundidades de unas mazmorras medievales malditas. La premisa inicial es rescatar al Capitán Le'Garde, pero el descenso pronto se transforma en una espiral hacia el horror cósmico y deidades antiguas corruptas. Gráficamente, el estilo pixel art camufla un nivel de crudeza explícita abrumador, abordando temas tabú de forma visceral, como desmembramientos, gore extremo y violencia sexual. Su lore es profundo, críptico y absorbente, fuertemente inspirado en clásicos como Silent Hill, la mitología hindú y la opresión implacable de obras de fantasía oscura como Berserk\n\nEl sistema de juego destaca por rechazar por completo la gratificación inmediata del RPG convencional. En las mazmorras no existe un sistema de niveles ni puntos de experiencia; eliminar a un monstruo no te hace más fuerte, sino físicamente más débil y con menos recursos\n\nEl combate por turnos es táctico pero brutal: cada extremidad enemiga ataca de forma independiente, por lo que desmembrar a los contrincantes es obligatorio para sobrevivir. Sin embargo, un error mínimo puede costar los brazos o las piernas del propio protagonista, limitando permanentemente su capacidad de combatir o caminar a menos que se recurra a drásticas amputaciones por infecciones\n\nEl título se comporta en gran parte como un immersive sim, donde el conocimiento adquirido a base de morir una y otra vez (ensayo y error) vale mucho más que cualquier objeto del inventario\n\nLa supervivencia se gestiona a través de tres factores críticos que merman constantemente: la salud física, el hambre y la cordura. Permanecer a oscuras o presenciar actos grotescos destruye la mente de los personajes, desatando fobias extremas y paranoia colectiva dentro del grupo que reclutes\n\nPara añadir tensión, el progreso no es libre; guardar la partida requiere encontrar una cama segura y ganar un implacable lanzamiento de moneda. Fallar dicho lanzamiento no solo borra la oportunidad de salvar, sino que provoca una emboscada inmediata que suele terminar en una muerte atroz\n\nFear & Hunger es una experiencia fascinante pero radical que no está diseñada para todo el público. Su dificultad extrema y la fuerte aleatoriedad de su diseño pueden frustrar rápido a quienes busquen diversión casual\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "http://205.209.102.107/Luis/FEARHUN.zip",
+      "instalacion": "forwarders/ports_juegos/Fear_Hunger/Fear_Hunger.nsp",
+      "license": "Español",
+      "category": "Ports",
+      "binary": "/switch/fh-nx/fh-nx.nro",
+      "filesize": 663660,,
+      "extracted": 873988,
+      "updated": "10/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
