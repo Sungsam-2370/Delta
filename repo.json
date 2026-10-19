@@ -4030,6 +4030,24 @@
       "screens": 5
     },
     {
+      "name": "PROZOMBO",
+      "title": "Project Zomboid",
+      "author": "etonedemid",
+      "version": "1.0.0",
+      "description": "Port PC",
+      "details": "Martin Gaxiola les comparte este aporte que el armo para el grupo\n\nProject Zomboid es el simulador de supervivencia zombi definitivo, una joya del panorama indie que ofrece una de las experiencias más profundas, inmersivas y brutales de la industria de los videojuegos\n\nEl juego no te plantea cómo ganar, sino que te advierte desde el primer segundo: Esta es la historia de cómo moriste. El juego se encuentra en el género de Supervivencia, RPG y Sandbox con una característica vista isométrica\n\nEl juego se encuentra en el género de Supervivencia, RPG y Sandbox con una característica vista isométrica\n\nLa evolución del personaje es dura; empiezas siendo alguien torpe e inútil y debes subir de nivel manualmente habilidades de carpintería, mecánica, agricultura o medicina leyendo libros específicos para multiplicar tu experiencia.\n\nEl entorno dinámico añade una presión constante, ya que en un plazo aproximado de 14 días los servicios públicos fallan y te quedas sin agua ni luz eléctrica, obligándote a depender de generadores y recolectores de lluvia.\n\nFinalmente, el combate y sigilo castigan los errores con severidad; las armas de fuego hacen mucho ruido y atraen a cientos de zombis, por lo que el cuerpo a cuerpo estratégico es la norma, sabiendo que un solo rasguño o mordisco mal curado te infectará y acabará con tu partida\n\nSi buscas acción frenética, este juego te va a desesperar. Pero si te apasiona la estrategia, la gestión meticulosa de recursos y la verdadera simulación de supervivencia donde cada decisión cuenta, es el mejor juego de su categoría en el mercado.\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "http://205.209.102.107/Luis/PROZOMBO.zip",
+      "instalacion": "forwarders/ports_juegos/Project_Zomboid/Project_Zomboid.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/pz41/pz41.nro",
+      "filesize": 7202236,
+      "extracted": 7202236,
+      "updated": "11/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
