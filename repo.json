@@ -3975,6 +3975,24 @@
       "screens": 5
     },
     {
+      "name": "GUIHE3",
+      "title": "Guitar Hero III: Legends of Rock",
+      "author": "Guillerme Manhaes",
+      "version": "0.1.0",
+      "description": "Port Xbox360",
+      "details": "Guitar Hero III: Legends of Rock es considerado por críticos y fanáticos como uno de los puntos más altos de la era dorada de los videojuegos musicales\n\nEl juego consolidó el fenómeno cultural de las guitarras de plástico, llevando la dificultad y la espectacularidad a un nivel nunca antes visto\n\nLa banda sonora es impecable. Logró reunir a gigantes de la música que antes se resistían a aparecer en los videojuegos, incluyendo a leyendas como Metallica, Iron Maiden, Black Sabbath, Pearl Jam y Slipknot. Cada bloque de canciones se siente como un viaje auténtico por la historia del rock y el metal\n\nLas batallas de jefes introdujeron una dinámica brillante. Enfrentarse a iconos de la guitarra como Slash (Guns N' Roses) y Tom Morello (Rage Against the Machine) tocando composiciones originales creadas por ellos mismos fue un añadido memorable para el modo campaña\n\nLa inclusión de Through the Fire and Flames de DragonForce como el reto final definitivo se convirtió en un mito de internet. Esta canción marcó un antes y un después en lo que los jugadores consideraban posible de lograr con el periférico de guitarra, exigiendo una velocidad y coordinación extremas\n\nEl multijugador expandió enormemente la vida útil del juego. El modo Batalla introdujo mecánicas competitivas excelentes donde podías lanzar ataques a tu oponente para arruinar su partida, como romperle una cuerda ficticia o invertirle los controles en la pantalla\n\nGuitar Hero III: Legends of Rock es una obra maestra de su género que capturó a la perfección la fantasía de ser una estrella de rock. Nadie puede negar que esta entrega definió a toda una generación de consolas. Es un título ruidoso, desafiante, increíblemente divertido y una pieza de nostalgia pura que se sostiene muy bien hoy en día\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "http://205.209.102.107/Luis/GUIHE3.zip",
+      "instalacion": "forwarders/ports_juegos/Guitar_Hero_3/Guitar_Hero_3.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/gh3-nx/gh3-nx.nro",
+      "filesize": 3561947,
+      "extracted": 3659834,
+      "updated": "11/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
