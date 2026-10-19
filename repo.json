@@ -3957,6 +3957,24 @@
       "screens": 5
     },
     {
+      "name": "CASTLEGADARK",
+      "title": "Castlevania: Legacy of Darkness",
+      "author": "PalindromicBreadLoaf",
+      "version": "1.0.0",
+      "description": "Port PC - N64",
+      "details": "La recompilación nativa (recomp) de Castlevania: Legacy of Darkness es un logro técnico impresionante para uno de los títulos más incomprendidos y divisivos de la Nintendo 64\n\nEsta variante no es un simple emulador corriendo en segundo plano, sino un port nativo real que reescribe el comportamiento del juego para exprimir el hardware actual\n\nEl mayor beneficio de la recompilación es la fluidez. El título original de Nintendo 64 sufría caídas constantes en la tasa de cuadros por segundo, especialmente al activar el modo de alta resolución mediante el Expansion Pack. Esta versión ofrece una tasa de FPS completamente estable\n\nLa resolución es nítida y cristalina, eliminando el difuminado característico de la consola original. Además, añade soporte nativo para pantallas anchas en formato 16:9 y opciones de suavizado de bordes (anti-aliasing) que modernizan el aspecto de la aventura\n\nLa esencia jugable permanece intacta. Legacy of Darkness ya era, por derecho propio, la versión definitiva y completa de lo que Konami planeó originalmente para Castlevania 64, corrigiendo el diseño de niveles, puliendo la cámara y añadiendo mecánicas de tiempo y múltiples campañas. Controlar al licántropo Cornell, al caballero Henry, a Reinhardt o a Carrie se siente sustancialmente mejor gracias a la drástica reducción del retraso en la respuesta de los controles (input lag), haciendo que las secciones de plataformas complejas y los combates toscos de 1999 sean mucho más llevaderos y justos\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Epsilon/releases/download/Base/CASTLEGADARK.zip",
+      "instalacion": "forwarders/ports_juegos/Castlevania_Legacy_Darkness/Castlevania_Legacy_Darkness.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/lodrecomp/LodRecomp.nro",
+      "filesize": 34615,
+      "extracted": 67149,
+      "updated": "11/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
