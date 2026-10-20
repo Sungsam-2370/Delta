@@ -4048,6 +4048,24 @@
       "screens": 5
     },
     {
+      "name": "PKRELO",
+      "title": "Pokemon Reloaded",
+      "author": "PokeNX Project",
+      "version": "0.1.0",
+      "description": "Port PC",
+      "details": "Es posible que la descompresion sea lenta pues aunque es un juego de poco peso, esta conformado por asi 40 mil archivos\n\nPokémon Reloaded es una de las obras maestras más ambiciosas creadas por fans (fangames), destacando principalmente por romper con los tradicionales combates por turnos de la franquicia y cambiarlos por un sistema de batallas en tiempo real\n\nEl corazón de Pokémon Reloaded reside en sus mecánicas de combate. En lugar de seleccionar un ataque y esperar a que el rival responda, aquí el jugador controla directamente los movimientos de su Pokémon en un área abierta. Esto te permite desplazarte en todas direcciones, esquivar proyectiles enemigos en el momento preciso o idear estrategias basadas en la velocidad.\n\nLos Puntos de Poder (PP) de los movimientos se recargan automáticamente durante la batalla, obligando al jugador a mantener la distancia si necesita recuperarse. A pesar del cambio de ritmo táctico a uno de pura habilidad, el juego respeta las bases esenciales al mantener el límite de cuatro ataques simultáneos por criatura\n\nIniciales no convencionales: Al comenzar la travesía con el Profesor Oak, la elección inicial no se limita a la clásica trinidad de fuego, planta y agua, sino que se opta entre Eevee, Pikachu o Riolu\n\nVariedad de generaciones: El juego incluye un catálogo inmenso de criaturas que abarca múltiples generaciones, además de incluir mecánicas avanzadas como la Megaevolución, los Cristales Z y formas regionales\n\nDesafío post-juego: La curva de dificultad es notoriamente más alta que la de los títulos oficiales, con múltiples modos seleccionables al inicio y la abismal meta de superar hasta cinco Ligas Pokémon diferentes en el post-juego\n\nFacciones enemigas: La historia no solo introduce un equipo villano original, sino que reúne de forma lógica a las organizaciones criminales clásicas de la franquicia, como el Equipo Rocket\n\nVisualmente, mantiene un encanto clásico en 2D que evoca nostalgia pero añade múltiples comodidades modernas, como el sistema de día y noche, y la posibilidad de que tus Pokémon te sigan fuera de sus pokébolas. La interfaz y los menús son altamente personalizables en colores y controles\n\nPokémon Reloaded es un juego indispensable para los fanáticos que buscan una alternativa fresca y competitiva. Su sistema exige aprender un metajuego totalmente nuevo, convirtiéndolo en un verdadero reto de destreza y estrategia\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "https://github.com/Sungsam-2370/Epsilon/releases/download/Base/PKRELO.zip",
+      "instalacion": "forwarders/ports_juegos/Pokemon_Reloaded/Pokemon_Reloaded.nsp",
+      "license": "Español - Ingles",
+      "category": "Ports",
+      "binary": "/switch/pokenx/pokenx.nro",
+      "filesize": 223814,
+      "extracted": 271058,
+      "updated": "12/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
