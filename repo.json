@@ -4030,6 +4030,24 @@
       "screens": 5
     },
     {
+      "name": "SHEEPDOG",
+      "title": "Looney Tunes: Sheep Raider",
+      "author": "SDW Community",
+      "version": "1.0.0",
+      "description": "Port PS1",
+      "details": "Looney Tunes: Sheep Raider (Sheep, Dog 'n' Wolf), lanzado para la PlayStation 1 en el año 2001, es una de las joyas ocultas más brillantes y originales de su generación. A primera vista, uno podría esperar el clásico juego de plataformas de licencias infantiles, pero la realidad es radicalmente distinta: se trata de una sofisticada aventura de sigilo y rompecabezas que rinde un tributo perfecto a la era dorada de la animación\n\nLa premisa sigue fielmente los cortos animados. El jugador toma el control de Ralph el lobo, quien es reclutado por el Pato Lucas en un programa de concursos donde el gran objetivo es robar un total de 17 ovejas. El gran obstáculo en cada uno de los 18 niveles del juego es Sam, el imponente e implacable perro guardián que castigará severamente a Ralph si llega a detectarlo\n\nLejos de depender de la acción directa, la jugabilidad de Sheep Raider emula de forma brillante mecánicas de sigilo táctico parecidas a las de Metal Gear Solid. Ralph debe caminar de puntitas, camuflarse en arbustos y planificar cuidadosamente cada movimiento respetando el campo de visión de Sam\n\nEl factor estrella del juego son los descabellados artilugios de la corporación ACME. A través de icónicos buzones, se pueden solicitar herramientas variadas que transforman por completo el enfoque de cada nivel\n\nEl gran acierto del estudio desarrollador radica en que la fórmula nunca se repite. Cada nivel introduce biomas radicalmente distintos —desde desiertos y laberintos helados hasta castillos embrujados donde Ralph debe disfrazarse de fantasma y bailar con ellos— obligando a idear una estrategia totalmente nueva en cada fase\n\nAunque el juego no cuenta con un sistema de vidas limitadas o pantallas de Game Over punitivas —reiniciando al jugador de inmediato para probar otra idea— la dificultad asciende considerablemente a partir de la mitad de la aventura. Requiere un pensamiento lógico agudo y mucha paciencia, alejándose de los estándares comunes de los títulos diseñados exclusivamente para niños\n\nVisualmente, el juego utiliza entornos tridimensionales bajo una estética low-poly. A pesar de las limitaciones de la época, compensa todo con una explosión de colores vibrantes y animaciones caricaturescas excelentes que capturan detalles exquisitos, como el cansancio físico de Ralph al cargar el peso de una oveja\n\nLooney Tunes: Sheep Raider es una obra maestra de culto en el catálogo de PS1. Logra el equilibrio perfecto entre el humor absurdo de Warner Bros. y mecánicas de juego de estrategia impecables. Si buscas un reto retro memorable que ponga a prueba tu ingenio en lugar de tus reflejos, la odisea de Ralph el lobo sigue siendo una recomendación absoluta\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "http://205.209.102.107/Luis/SHEEPDOG.zip",
+      "instalacion": "forwarders/ports_juegos/Sheep_Raider/Sheep_Raider.nsp",
+      "license": "Ingles",
+      "category": "Ports",
+      "binary": "/switch/sheepdogwolf/sheepdogwolf.nro",
+      "filesize": 415950,
+      "extracted": 522054,
+      "updated": "12/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
