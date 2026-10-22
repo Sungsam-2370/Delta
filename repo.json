@@ -4066,6 +4066,24 @@
       "screens": 5
     },
     {
+      "name": "YUFORMEM",
+      "title": "Yu-Gi-Oh! Forbidden Memories",
+      "author": "Hitaloose - Unchiga",
+      "version": "0.3.0",
+      "description": "Port PS1",
+      "details": "Menu de configurarion de la recompilacion, presion R3 (Stick derecho) para abrir o cerrar el menu\n\nYu-Gi-Oh! Forbidden Memories Recompiled (Recomp) es un port nativo desarrollado por la comunidad mediante ingeniería inversa. No es una emulación tradicional, sino una recompilación estática del código original de PlayStation 1 que transforma por completo la experiencia de juego de este clásico de culto del año 2002\n\nMejoras Técnicas y de Rendimiento\n\nEl juego elimina por completo los tiempos de carga de disco del hardware original, ofreciendo una carga rápida instantánea y un multiplicador de velocidad ajustable. Además, los monstruos que se colocan boca arriba en el campo se muestran directamente con sus modelos de batalla interactivos en 3D. El proyecto también admite un pack opcional de texturas en HD que redibuja las cartas, los marcos y los retratos de los personajes en alta calidad. Para la interfaz, integra un medidor de rango de duelo en tiempo real y una pantalla de resultados extendida de tres páginas para revisar detalladamente las recompensas obtenidas\n\nAnálisis de Calidad de Vida (QoL)\n\nEl Forbidden Memories original es recordado por su extrema dificultad y la necesidad de farmear a un mismo rival cientos de veces. Esta versión soluciona la frustración del juego original sin alterar su esencia mediante las siguientes herramientas\n\nAsistente de Fusión: Lee de forma interactiva las cartas de tu mano y te indica el orden exacto de selección para optimizar el ataque o la defensa, revelando el complejo sistema de combinaciones ocultas\n\nMod del 100% de Cartas Obtenibles: En las versiones de PS1 fuera de Japón era imposible conseguir las 722 cartas de forma legal por la falta de la PocketStation. Recomp añade las 33 cartas faltantes directamente a las tablas de recompensas de los duelistas\n\nMenú de Trucos Integrado: Permite a los jugadores casuales activar opciones como modificar la tasa de aparición de cartas, ver la mano del oponente, manipular fichas estelares, puntos de vida y rellenar el baúl\n\nHerramientas Modernas: Cuenta de forma nativa con guardado rápido (save states), rebobinado de turnos (rewind) y reconfiguración total de controles\n\nYu-Gi-Oh! Forbidden Memories Recomp es la versión definitiva para experimentar este clásico de PlayStation 1. Logra preservar la jugabilidad vertiginosa basada en signos zodiacales y fusiones libres, mientras remueve por completo el tedio del farmeo a ciegas gracias al asistente de fusiones y los multiplicadores de velocidad. Es una experiencia obligatoria tanto para los nostálgicos como para los nuevos jugadores que deseen superar el reto original de forma cómoda y accesible\n\n\nDESCARGA:\nDebes tener al menos 3 veces el espacio del tamaño del archivo, el archivo no ocupara ese espacio, pero es necesario tener el espacio disponible para descargar, descomprimir e instalar, tenlo en cuenta\n\nINSTALACIÓN:\nEste programa es una aplicacion Homebrew, después de descargar la encontraras en tu menu de aplicaciones en tu consola\nPara tener un acceso desde la pantalla principal, hemos incluido un acceso directo (forwarder) en formato NSP\ninstala el nsp con tu programa de instalación de juegos favoritos, por ejemplo, abre DBI, usa la opcion explorar tarjeta SD, busca la carpeta forwarders en la raíz de tu sd, selecciona el archivo del juego en nsp e instalalo, asi tendrás un acceso a la aplicacion desde el menu principal de tu consola",
+      "url": "https://raw.githubusercontent.com/Sungsam-2370/Delta/main",
+      "zip_url": "http://205.209.102.107/Luis/YUFORMEM.zip",
+      "instalacion": "forwarders/ports_juegos/YuGiOh_Forbidden_Memories/YuGiOh_Forbidden_Memories.nsp",
+      "license": "Español - Multi idioma",
+      "category": "Ports",
+      "binary": "/switch/yfm-redecomp/yfm-redecomp.nro",
+      "filesize": 213854,
+      "extracted": 535096,
+      "updated": "13/08/2026",
+      "screens": 5
+    },
+    {
       "name": "ANDREASESP",
       "title": "Mod Latino - GTA San Andreas",
       "author": "ZainEsc - Magotakon",
